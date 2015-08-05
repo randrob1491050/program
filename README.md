@@ -1,4 +1,4 @@
 project
 =======
 
-My little project code archive
+some project code archive
