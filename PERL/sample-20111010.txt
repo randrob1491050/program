@@ -1,0 +1,36 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+my(%hash1,%hash2,%hash3);
+open CONF, '/data1/apache/share/5250.txt' or die $!;
+
+while (<CONF>) {
+    chomp;
+    my $cnt = my($date,$uid,$bwm,$swm,$unknown,$name) = split /\t/;
+    die "Error:$_" if $cnt != 6;
+    $hash1{$uid}="$uid\t$bwm\t$swm\t$unknown\t$name";
+}
+
+close CONF;
+open FILE, '/data1/apache/share/backup/why/mytest.txt' or die $!;
+
+while(<FILE>) {
+    chomp;
+    my $num = my($date1,$uid1,$bwm1,$swm1,$id,$type,$fromid,$times) = split /\t/;
+    die "Error:$_" if $num != 8;
+    if (exists $hash1{$uid1}) {
+        if($id==5 || $id==57) {
+            my $key = "$date1$uid1";
+            if(!exists $hash3{$key}) {
+                $hash2{$uid1}++;
+                $hash3{$key}++;
+            }
+        }  
+    }
+    if ($hash2{$uid1} >= 3) {
+        print "$date1\t$hash1{$uid1}\n";
+    }
+}
+
+close FILE;

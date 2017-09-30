@@ -1,0 +1,25 @@
+#!/usr/bin/python
+# DATE:   2017.03.08
+
+__author__ = 'iBSD@siteop.me'
+
+import re
+import os
+
+apnic_file = open("re.txt", "r")
+apnic_data = apnic_file.read()
+#print apnic_data.splitlines()
+
+def get_cn_asn():
+	asn_regex = re.compile("CN\|ipv4.*")
+	for s in apnic_data.splitlines():
+		#print type(s)
+		result = asn_regex.search(s)
+		if result:
+			return result.group(1)
+
+print get_cn_asn()
+
+#print (apnic_data)
+
+apnic_file.close()

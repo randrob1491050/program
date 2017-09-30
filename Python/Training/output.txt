@@ -1,0 +1,14 @@
+{
+    "English": {
+        "car": [
+            "small",
+            "median",
+            "big"
+        ],
+        "color": [
+            "white",
+            "black",
+            "red"
+        ]
+    }
+}

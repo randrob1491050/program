@@ -1,0 +1,1010 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+51space_thank_post.py	../Web_Scraping/51.com/51space_thank_post.py	1;"	kind:file	line:1
+AM	../CS1301_Course.py	/^AM =[1,2,3,4,5]$/;"	kind:variable	line:93
+APNIC_DATA	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	/^APNIC_DATA = open(FILE_PATH, mode='r')$/;"	kind:variable	line:16
+APNIC_DATA	../Network_Tools/GET_CN_ROUTE/unit_test/code_snippet.py	/^APNIC_DATA = open(FILE_PATH, mode='r')$/;"	kind:variable	line:21
+Artist	../CS1301_Course.py	/^class Artist:$/;"	kind:class	line:1389
+Artist	../CS1301_Course.py	/^class Artist:$/;"	kind:class	line:1408
+BOT_EMAIL	../Training/automate_online-materials/torrentStarter.py	/^BOT_EMAIL = 'imaptest@coffeeghost.net'$/;"	kind:variable	line:10
+BOT_EMAIL_PASSWORD	../Training/automate_online-materials/torrentStarter.py	/^BOT_EMAIL_PASSWORD = '7|)6S1JS6>euu8p\/nTlf'$/;"	kind:variable	line:11
+Beans	../CS1301_Course.py	/^class Beans:$/;"	kind:class	line:1662
+BeautifulSoup	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^from bs4 import BeautifulSoup$/;"	kind:namespace	line:8
+Burrito	../CS1301_Course.py	/^class Burrito:$/;"	kind:class	line:1677
+CS1301_Course.py	../CS1301_Course.py	1;"	kind:file	line:1
+CodeSnippets.py	../CodeSnippets.py	1;"	kind:file	line:1
+ConfigParser	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^import ConfigParser$/;"	kind:namespace	line:8
+ConfigParser	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import ConfigParser$/;"	kind:namespace	line:11
+DIGIT_RE	../Py_Checkio_Org.py	/^DIGIT_RE = re.compile('\\d')$/;"	kind:variable	line:220
+ENHANCER	../Web_Scraping/zhihu.com/image_recognition.py	/^    ENHANCER = ImageEnhance.Sharpness(IMGS)$/;"	kind:variable	line:14
+FILE_PATH	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	/^FILE_PATH = '\/Users\/ibsd\/Dropbox\/Project\/Python\/GET_CN_ROUTE\/apnic-latest'$/;"	kind:variable	line:14
+FILE_PATH	../Network_Tools/GET_CN_ROUTE/unit_test/code_snippet.py	/^FILE_PATH = '\/Users\/ibsd\/Dropbox\/Project\/Python\/GET_CN_ROUTE\/unit_test\/words.txt'$/;"	kind:variable	line:20
+FibSeq	../CS1301_Course.py	/^class FibSeq:$/;"	kind:class	line:1428
+HEADERS	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^HEADERS = {$/;"	kind:variable	line:11
+HOST	../Other/download_voa.py	/^HOST = 'http:\/\/learningenglish.voanews.com'$/;"	kind:variable	line:19
+IMAP_SERVER	../Training/automate_online-materials/torrentStarter.py	/^IMAP_SERVER = 'mail.coffeeghost.net'$/;"	kind:variable	line:12
+IMGS	../Web_Scraping/zhihu.com/image_recognition.py	/^    IMGS = ENHANCER.enhance(2)$/;"	kind:variable	line:15
+IMGS	../Web_Scraping/zhihu.com/image_recognition.py	/^    IMGS = IMGS.convert('RGB')$/;"	kind:variable	line:11
+IMGS	../Web_Scraping/zhihu.com/image_recognition.py	/^    IMGS = IMGS.filter(ImageFilter.SHARPEN)$/;"	kind:variable	line:13
+IMGS	../Web_Scraping/zhihu.com/image_recognition.py	/^    IMGS = Image.open("\/Users\/ibsd\/Dropbox\/Project\/Python\/SCRAPE_REQUESTS\/captcha.gif")$/;"	kind:variable	line:10
+INDEX_PAGE	../Other/download_voa.py	/^INDEX_PAGE = 'http:\/\/learningenglish.voanews.com\/programindex.html'$/;"	kind:variable	line:18
+Image	../Training/automate_online-materials/resizeAndAddLogo.py	/^from PIL import Image$/;"	kind:namespace	line:6
+Image	../Web_Scraping/zhihu.com/image_recognition.py	/^from PIL import Image, ImageEnhance, ImageFilter$/;"	kind:namespace	line:7
+Image	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^from PIL import Image$/;"	kind:namespace	line:9
+ImageEnhance	../Web_Scraping/zhihu.com/image_recognition.py	/^from PIL import Image, ImageEnhance, ImageFilter$/;"	kind:namespace	line:7
+ImageFilter	../Web_Scraping/zhihu.com/image_recognition.py	/^from PIL import Image, ImageEnhance, ImageFilter$/;"	kind:namespace	line:7
+LOGINSUBMIT	../Web_Scraping/51.com/51space_thank_post.py	/^LOGINSUBMIT = '登录'.encode('utf-8')$/;"	kind:variable	line:9
+LOGO_FILENAME	../Training/automate_online-materials/resizeAndAddLogo.py	/^LOGO_FILENAME = 'catlogo.png'$/;"	kind:variable	line:9
+LOWER_CASE_RE	../Py_Checkio_Org.py	/^LOWER_CASE_RE = re.compile('[a-z]')$/;"	kind:variable	line:222
+MY_EMAIL	../Training/automate_online-materials/torrentStarter.py	/^MY_EMAIL = 'asweigart@gmail.com' # bot should only respond to me$/;"	kind:variable	line:9
+Meat	../CS1301_Course.py	/^class Meat:$/;"	kind:class	line:1636
+Number	../CS1301_Course.py	/^class Number:$/;"	kind:class	line:1445
+PASSWORDS	../Training/automate_online-materials/pw.py	/^PASSWORDS = {'email': 'F7minlBDDuvMJuxESSKHFhTxFtjVB6',$/;"	kind:variable	line:4
+PM	../CS1301_Course.py	/^PM=[10,11,12]$/;"	kind:variable	line:92
+PRICE_UPDATES	../Training/automate_online-materials/updateProduce.py	/^PRICE_UPDATES = {'Garlic': 3.07,$/;"	kind:variable	line:10
+Person	../CS1301_Course.py	/^class Person:$/;"	kind:class	line:1351
+Person	../CS1301_Course.py	/^class Person:$/;"	kind:class	line:952
+PyPDF2	../Training/automate_online-materials/combinePdfs.py	/^import PyPDF2, os$/;"	kind:namespace	line:5
+Py_Checkio_Org.py	../Py_Checkio_Org.py	1;"	kind:file	line:1
+PythonExercisesRoutine.py	../PythonExercisesRoutine.py	1;"	kind:file	line:1
+RETRY_TIMES	../Other/download_voa.py	/^RETRY_TIMES = 3$/;"	kind:variable	line:21
+Rice	../CS1301_Course.py	/^class Rice:$/;"	kind:class	line:1649
+SMTP_PORT	../Training/automate_online-materials/torrentStarter.py	/^SMTP_PORT = 465$/;"	kind:variable	line:14
+SMTP_SERVER	../Training/automate_online-materials/torrentStarter.py	/^SMTP_SERVER = 'mail.coffeeghost.net'$/;"	kind:variable	line:13
+SQUARE_FIT_SIZE	../Training/automate_online-materials/resizeAndAddLogo.py	/^SQUARE_FIT_SIZE = 300$/;"	kind:variable	line:8
+Song	../CS1301_Course.py	/^class Song:$/;"	kind:class	line:1393
+Song	../CS1301_Course.py	/^class Song:$/;"	kind:class	line:1412
+Song	../Training/learn_python_the_hard_way/ex040.py	/^class Song(object):$/;"	kind:class	line:3
+TEXT	../Web_Scraping/zhihu.com/image_recognition.py	/^    TEXT = pytesseract.image_to_string(Image.open('tmp.jpg'))$/;"	kind:variable	line:19
+TORRENT_PROGRAM	../Training/automate_online-materials/torrentStarter.py	/^TORRENT_PROGRAM = 'C:\\\\Program Files (x86)\\\\qBittorrent\\\\qbittorrent.exe'$/;"	kind:variable	line:15
+TodoItem	../CS1301_Course.py	/^class TodoItem:$/;"	kind:class	line:908
+TwilioRestClient	../Training/automate_online-materials/textMyself.py	/^from twilio.rest import TwilioRestClient$/;"	kind:namespace	line:11
+UPPER_CASE_RE	../Py_Checkio_Org.py	/^UPPER_CASE_RE = re.compile('[A-Z]')$/;"	kind:variable	line:221
+URL_TEST	../Network_Tools/GET_CN_ROUTE/files_download.py	/^URL_TEST = "https:\/\/cdn.51img3.com\/32.jpg"$/;"	kind:variable	line:14
+USERNAME	../Web_Scraping/51.com/51space_thank_post.py	/^USERNAME = 'xxx'.encode('utf-8')$/;"	kind:variable	line:8
+VOA_DIR	../Other/download_voa.py	/^VOA_DIR = os.path.join('\/Users\/ibsd\/Documents\/', 'VOA')$/;"	kind:variable	line:20
+__author__	../CodeSnippets.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:5
+__author__	../Network_Tools/GET_CN_ROUTE/files_download.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:5
+__author__	../Network_Tools/GET_CN_ROUTE/unit_test/code_snippet.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Web_Scraping/51.com/51space_thank_post.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Web_Scraping/zhihu.com/image_recognition.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Web_Scraping/zhihu.com/ocr_api_service.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__author__	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^__author__ = 'iBSD@siteop.me'$/;"	kind:variable	line:4
+__init__	../CS1301_Course.py	/^    def __init__(self):$/;"	kind:member	line:1429
+__init__	../CS1301_Course.py	/^    def __init__(self, meat, to_go, rice, beans, extra_meat=False, guacamole=False, cheese=False, pico=False, corn=False):$/;"	kind:member	line:1678
+__init__	../CS1301_Course.py	/^    def __init__(self, name, age, GTID):$/;"	kind:member	line:1352
+__init__	../CS1301_Course.py	/^    def __init__(self, name, age, father=None, mother=None):        # TYPE: init method$/;"	kind:member	line:953
+__init__	../CS1301_Course.py	/^    def __init__(self, name, album, year, artist):$/;"	kind:member	line:1394
+__init__	../CS1301_Course.py	/^    def __init__(self, name, album, year, artist):$/;"	kind:member	line:1413
+__init__	../CS1301_Course.py	/^    def __init__(self, name, label):$/;"	kind:member	line:1390
+__init__	../CS1301_Course.py	/^    def __init__(self, name, label):$/;"	kind:member	line:1409
+__init__	../CS1301_Course.py	/^    def __init__(self, title, description, completed=False):$/;"	kind:member	line:909
+__init__	../CS1301_Course.py	/^    def __init__(self, value, even):$/;"	kind:member	line:1446
+__init__	../CS1301_Course.py	/^    def __init__(self, value=False):$/;"	kind:member	line:1637
+__init__	../CS1301_Course.py	/^    def __init__(self, value=False):$/;"	kind:member	line:1650
+__init__	../CS1301_Course.py	/^    def __init__(self, value=False):$/;"	kind:member	line:1663
+__init__	../Training/learn_python_the_hard_way/ex040.py	/^    def __init__(self, lyrics):$/;"	kind:member	line:5
+a	../Training/codecademy_exercise/exercise_variable.py	/^a = True$/;"	kind:variable	line:1
+a_list	../CS1301_Course.py	/^a_list = [19, 7, 71.34260578068043, 82, 92.16621472300301, 48, 46.11832778043146]$/;"	kind:variable	line:536
+absWorkingDir	../Training/automate_online-materials/renameDates.py	/^    absWorkingDir = os.path.abspath('.')$/;"	kind:variable	line:34
+account	../Training/automate_online-materials/pw.py	/^account = sys.argv[1] # first command line arg is the account name$/;"	kind:variable	line:13
+accountSID	../Training/automate_online-materials/textMyself.py	/^accountSID = 'ACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'$/;"	kind:variable	line:6
+add	../Training/learn_python_the_hard_way/ex021.py	/^def add(a, b):$/;"	kind:function	line:3
+address	../Training/automate_online-materials/mapIt.py	/^    address = ' '.join(sys.argv[1:])$/;"	kind:variable	line:9
+address	../Training/automate_online-materials/mapIt.py	/^    address = pyperclip.paste()$/;"	kind:variable	line:12
+afterPart	../Training/automate_online-materials/renameDates.py	/^    afterPart  = mo.group(8)$/;"	kind:variable	line:28
+age	../Training/automate_online-materials/validateInput.py	/^    age = input()$/;"	kind:variable	line:3
+age	../Training/learn_python_the_hard_way/ex011.py	/^age = raw_input()$/;"	kind:variable	line:6
+age	../Training/learn_python_the_hard_way/ex012.py	/^age = raw_input("What's  your old?")$/;"	kind:variable	line:4
+age	../Training/learn_python_the_hard_way/ex021.py	/^age = add(11, 22)$/;"	kind:variable	line:16
+alist	../CS1301_Course.py	/^alist = [3, 2, 5, 6, 4, 1]$/;"	kind:variable	line:1074
+allData	../Training/automate_online-materials/census2010.py	/^allData = {'AK': {'Aleutians East': {'pop': 3141, 'tracts': 1},$/;"	kind:variable	line:1
+allMyCats1.py	../Training/automate_online-materials/allMyCats1.py	1;"	kind:file	line:1
+allMyCats2.py	../Training/automate_online-materials/allMyCats2.py	1;"	kind:file	line:1
+amerFilename	../Training/automate_online-materials/renameDates.py	/^    amerFilename = os.path.join(absWorkingDir, amerFilename)$/;"	kind:variable	line:35
+analyse_network_date_ini.py	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	1;"	kind:file	line:1
+analyse_network_date_ini_v2.py	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	1;"	kind:file	line:1
+analyse_network_date_txt.py	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	1;"	kind:file	line:1
+angry_file_finder	../CS1301_Course.py	/^def angry_file_finder(filename):$/;"	kind:function	line:792
+animals	../Training/learn_python_the_hard_way/ex034.py	/^animals = ['bear', 'python', 'peacock', 'kangaroo', 'whale', 'platypus']$/;"	kind:variable	line:3
+ans	../Py_Checkio_Org.py	/^    ans = checkio(t)$/;"	kind:variable	line:336
+answer	../Training/codecademy_exercise/exercise_random.py	/^	answer = input()$/;"	kind:variable	line:11
+answer	../Training/codecademy_exercise/exercise_while.py	/^	answer = input()$/;"	kind:variable	line:8
+answerKeyFile	../Training/automate_online-materials/randomQuizGenerator.py	/^    answerKeyFile = open('capitalsquiz_answers%s.txt' % (quizNum + 1), 'w')$/;"	kind:variable	line:15
+answerOptions	../Training/automate_online-materials/randomQuizGenerator.py	/^        answerOptions = wrongAnswers + [correctAnswer]$/;"	kind:variable	line:35
+apnic_to_cnr.py	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	1;"	kind:file	line:1
+argv	../Training/learn_python_the_hard_way/ex013.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex014.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex015.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex016.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex016_drill.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex017.py	/^from sys import argv$/;"	kind:namespace	line:3
+argv	../Training/learn_python_the_hard_way/ex020.py	/^from sys import argv$/;"	kind:namespace	line:3
+article_audio	../Other/download_voa.py	/^            article_audio = re.search(re_article_audio, audio_html).group()$/;"	kind:variable	line:126
+article_html	../Other/download_voa.py	/^        article_html = download_data(article_url)$/;"	kind:variable	line:103
+article_pdf	../Other/download_voa.py	/^            article_pdf = article_pdf[0]$/;"	kind:variable	line:118
+article_pdf	../Other/download_voa.py	/^            article_pdf = re.search(re_article_pdf, article_html).groups()$/;"	kind:variable	line:116
+article_title	../Other/download_voa.py	/^            article_title =  '-'.join( re.findall('(\\w+)', article_title[0]) )$/;"	kind:variable	line:111
+article_title	../Other/download_voa.py	/^            article_title = re.search(re_article_title, article_html).groups()$/;"	kind:variable	line:109
+article_url	../Other/download_voa.py	/^        article_url = HOST + article$/;"	kind:variable	line:101
+article_urls	../Other/download_voa.py	/^    article_urls = re.findall(re_articles, theme_html)$/;"	kind:variable	line:98
+artists	../CS1301_Course.py	/^artists = [("The Beatles", 270.8), ("Elvis Presley", 211.5), ("Michael Jackson", 183.9)]$/;"	kind:variable	line:601
+ast	../CS1301_Course.py	/^import ast$/;"	kind:namespace	line:759
+audio_html	../Other/download_voa.py	/^            audio_html = download_data(audio_url)$/;"	kind:variable	line:124
+audio_url	../Other/download_voa.py	/^            audio_url = HOST + re.search(re_audio_page, article_html).group()$/;"	kind:variable	line:122
+authToken	../Training/automate_online-materials/textMyself.py	/^authToken  = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'$/;"	kind:variable	line:7
+average_passengers_per_car	../Training/learn_python_the_hard_way/ex004.py	/^average_passengers_per_car = passengers \/ cars_driven$/;"	kind:variable	line:12
+average_word_length	../CS1301_Course.py	/^def average_word_length(my_string):$/;"	kind:function	line:413
+b	../Training/codecademy_exercise/exercise_variable.py	/^b = not a$/;"	kind:variable	line:2
+backslash_cat	../Training/learn_python_the_hard_way/ex010.py	/^backslash_cat = "I'm \\\\ a \\\\ cat."$/;"	kind:variable	line:5
+backupToZip	../Training/automate_online-materials/backupToZip.py	/^def backupToZip(folder):$/;"	kind:function	line:8
+backupToZip.py	../Training/automate_online-materials/backupToZip.py	1;"	kind:file	line:1
+bacon	../Training/automate_online-materials/errorExample.py	/^def bacon():$/;"	kind:function	line:4
+bacon	../Training/automate_online-materials/sameName.py	/^def bacon():$/;"	kind:function	line:5
+bacon	../Training/automate_online-materials/sameName3.py	/^def bacon():$/;"	kind:function	line:5
+balance	../CS1301_Course.py	/^balance = 4.5$/;"	kind:variable	line:129
+bday	../Training/automate_online-materials/birthdays.py	/^        bday = input()$/;"	kind:variable	line:14
+bear_room	../Training/learn_python_the_hard_way/ex035.py	/^def bear_room():$/;"	kind:function	line:21
+beforePart	../Training/automate_online-materials/renameDates.py	/^    beforePart = mo.group(1)$/;"	kind:variable	line:24
+binary	../Training/learn_python_the_hard_way/ex006.py	/^binary = "binary"$/;"	kind:variable	line:4
+binary_search	../CS1301_Course.py	/^def binary_search(searchList, searchTerm):$/;"	kind:function	line:1151
+binary_search	../CS1301_Course.py	/^def binary_search(searchList, searchTerm):$/;"	kind:function	line:1228
+binary_year_search	../CS1301_Course.py	/^def binary_year_search(searchList, searchTerm):$/;"	kind:function	line:1323
+bingo	../Training/codecademy_exercise/exercise_while.py	/^		bingo = True$/;"	kind:variable	line:16
+bingo	../Training/codecademy_exercise/exercise_while.py	/^bingo = False$/;"	kind:variable	line:5
+birthdays	../Training/automate_online-materials/birthdays.py	/^birthdays = {'Alice': 'Apr 1', 'Bob': 'Dec 12', 'Carol': 'Mar 4'}$/;"	kind:variable	line:1
+birthdays.py	../Training/automate_online-materials/birthdays.py	1;"	kind:file	line:1
+body	../Training/automate_online-materials/sendDuesReminders.py	/^    body = 'Subject: %s dues unpaid.\\nDear %s,\\nRecords show that you have not paid dues for %s. Please make this payment as soon as possible. Thank you!' % (latestMonth, name, latestMonth)$/;"	kind:variable	line:30
+bool_superlist	../CS1301_Course.py	/^bool_superlist = [[True, True, True], [True, False, True], [False, False, False]]$/;"	kind:variable	line:584
+boolen_as_integer	../CS1301_Course.py	/^boolen_as_integer = int(my_boolen)$/;"	kind:variable	line:5
+boxPrint	../Training/automate_online-materials/boxPrint.py	/^def boxPrint(symbol, width, height):$/;"	kind:function	line:1
+boxPrint.py	../Training/automate_online-materials/boxPrint.py	1;"	kind:file	line:1
+break_words	../Training/learn_python_the_hard_way/ex025.py	/^def break_words(stuff):$/;"	kind:function	line:3
+break_words	../Training/learn_python_the_hard_way/ex026.py	/^def break_words(stuff):$/;"	kind:function	line:3
+bs4	../Training/automate_online-materials/downloadXkcd.py	/^import requests, os, bs4$/;"	kind:namespace	line:4
+bs4	../Training/automate_online-materials/lucky.py	/^import requests, sys, webbrowser, bs4$/;"	kind:namespace	line:4
+bs4	../Training/automate_online-materials/multidownloadXkcd.py	/^import requests, os, bs4, threading$/;"	kind:namespace	line:4
+bubbleSort	../CS1301_Course.py	/^def bubbleSort(lst):$/;"	kind:function	line:1012
+buggyAddingProgram.py	../Training/automate_online-materials/buggyAddingProgram.py	1;"	kind:file	line:1
+bulletPointAdder.py	../Training/automate_online-materials/bulletPointAdder.py	1;"	kind:file	line:1
+bulls_on_parade	../Training/learn_python_the_hard_way/ex040.py	/^bulls_on_parade = Song(["They rally around tha family",$/;"	kind:variable	line:16
+cafe	../CS1301_Course.py	/^cafe = "Starbucks"$/;"	kind:variable	line:128
+calcProd.py	../Training/automate_online-materials/calcProd.py	1;"	kind:file	line:1
+can_afford	../CS1301_Course.py	/^    can_afford = False$/;"	kind:variable	line:134
+can_afford	../CS1301_Course.py	/^    can_afford = False$/;"	kind:variable	line:136
+can_afford	../CS1301_Course.py	/^    can_afford = False$/;"	kind:variable	line:138
+can_afford	../CS1301_Course.py	/^    can_afford = False$/;"	kind:variable	line:140
+can_afford	../CS1301_Course.py	/^    can_afford = False$/;"	kind:variable	line:142
+can_afford	../CS1301_Course.py	/^can_afford = True$/;"	kind:variable	line:131
+capitals	../Training/automate_online-materials/randomQuizGenerator.py	/^capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix', 'Arkansas': 'Little Rock', 'California': 'Sacramento', 'Colorado': 'Denver', 'Connecticut': 'Hartford', 'Delaware': 'Dover', 'Florida': 'Tallahassee', 'Georgia': 'Atlanta', 'Hawaii': 'Honolulu', 'Idaho': 'Boise', 'Illinois': 'Springfield', 'Indiana': 'Indianapolis', 'Iowa': 'Des Moines', 'Kansas': 'Topeka', 'Kentucky': 'Frankfort', 'Louisiana': 'Baton Rouge', 'Maine': 'Augusta', 'Maryland': 'Annapolis', 'Massachusetts': 'Boston', 'Michigan': 'Lansing', 'Minnesota': 'Saint Paul', 'Mississippi': 'Jackson', 'Missouri': 'Jefferson City', 'Montana': 'Helena', 'Nebraska': 'Lincoln', 'Nevada': 'Carson City', 'New Hampshire': 'Concord', 'New Jersey': 'Trenton', 'New Mexico': 'Santa Fe', 'New York': 'Albany', 'North Carolina': 'Raleigh', 'North Dakota': 'Bismarck', 'Ohio': 'Columbus', 'Oklahoma': 'Oklahoma City', 'Oregon': 'Salem', 'Pennsylvania': 'Harrisburg', 'Rhode Island': 'Providence', 'South Carolina': 'Columbia', 'South Dakota': 'Pierre', 'Tennessee': 'Nashville', 'Texas': 'Austin', 'Utah': 'Salt Lake City', 'Vermont': 'Montpelier', 'Virginia': 'Richmond', 'Washington': 'Olympia', 'West Virginia': 'Charleston', 'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}$/;"	kind:variable	line:8
+capitalsItems	../Training/automate_online-materials/randomQuizGenerator.py	/^capitalsItems = list(capitals.items())$/;"	kind:variable	line:9
+carpool_capacity	../Training/learn_python_the_hard_way/ex004.py	/^carpool_capacity = cars_driven * space_in_a_car$/;"	kind:variable	line:10
+carpool_capacity_amount	../Training/learn_python_the_hard_way/ex004.py	/^carpool_capacity_amount = cars_driven * space_in_a_car_amount$/;"	kind:variable	line:11
+cars	../Training/learn_python_the_hard_way/ex004.py	/^cars = 100$/;"	kind:variable	line:3
+cars	../Training/learn_python_the_hard_way/ex030.py	/^cars = 40$/;"	kind:variable	line:4
+cars_driven	../Training/learn_python_the_hard_way/ex004.py	/^cars_driven = drivers$/;"	kind:variable	line:9
+cars_not_driven	../Training/learn_python_the_hard_way/ex004.py	/^cars_not_driven = cars - drivers$/;"	kind:variable	line:8
+catName1	../Training/automate_online-materials/allMyCats1.py	/^catName1 = input()$/;"	kind:variable	line:2
+catName2	../Training/automate_online-materials/allMyCats1.py	/^catName2 = input()$/;"	kind:variable	line:4
+catName3	../Training/automate_online-materials/allMyCats1.py	/^catName3 = input()$/;"	kind:variable	line:6
+catName4	../Training/automate_online-materials/allMyCats1.py	/^catName4 = input()$/;"	kind:variable	line:8
+catName5	../Training/automate_online-materials/allMyCats1.py	/^catName5 = input()$/;"	kind:variable	line:10
+catName6	../Training/automate_online-materials/allMyCats1.py	/^catName6 = input()$/;"	kind:variable	line:12
+catNames	../Training/automate_online-materials/allMyCats2.py	/^    catNames = catNames + [name]  # list concatenation$/;"	kind:variable	line:7
+catNames	../Training/automate_online-materials/allMyCats2.py	/^catNames = []$/;"	kind:variable	line:1
+catnapping.py	../Training/automate_online-materials/catnapping.py	1;"	kind:file	line:1
+cats	../Training/learn_python_the_hard_way/ex029.py	/^cats = 30$/;"	kind:variable	line:4
+census2010.py	../Training/automate_online-materials/census2010.py	1;"	kind:file	line:1
+change	../Training/learn_python_the_hard_way/ex032.py	/^change = [1, 'pennies', 2, 'dimes', 3, 'quarters']$/;"	kind:variable	line:5
+characterCount.py	../Training/automate_online-materials/characterCount.py	1;"	kind:file	line:1
+check_network_avail.py	../Network_Tools/CHECK_VPS_STATUS/check_network_avail.py	1;"	kind:file	line:1
+checkio	../Py_Checkio_Org.py	/^checkio = lambda d:[x for x in d if d.count(x)>1]$/;"	kind:variable	line:282
+checkio	../Py_Checkio_Org.py	/^checkio = lambda s: not($/;"	kind:variable	line:200
+checkio	../Py_Checkio_Org.py	/^def checkio(data):$/;"	kind:function	line:208
+checkio	../Py_Checkio_Org.py	/^def checkio(data):$/;"	kind:function	line:215
+checkio	../Py_Checkio_Org.py	/^def checkio(data):$/;"	kind:function	line:223
+checkio	../Py_Checkio_Org.py	/^def checkio(data):$/;"	kind:function	line:248
+checkio	../Py_Checkio_Org.py	/^def checkio(game_result):$/;"	kind:function	line:120
+checkio	../Py_Checkio_Org.py	/^def checkio(game_result):$/;"	kind:function	line:130
+checkio	../Py_Checkio_Org.py	/^def checkio(inList):$/;"	kind:function	line:284
+checkio	../Py_Checkio_Org.py	/^def checkio(text):$/;"	kind:function	line:304
+checkio	../unitTest2.py	/^def checkio(express):$/;"	kind:function	line:4
+cities	../Training/learn_python_the_hard_way/ex039.py	/^cities = {$/;"	kind:variable	line:13
+cities	../Training/learn_python_the_hard_way/ex039_text.py	/^cities = hashmap.new()$/;"	kind:variable	line:14
+city	../Training/learn_python_the_hard_way/ex039.py	/^        city = cities.get('TX', 'Does Not Exist')$/;"	kind:variable	line:64
+city	../Training/learn_python_the_hard_way/ex039_text.py	/^city = hashmap.get(cities, 'TX', 'Does Not Exist')$/;"	kind:variable	line:55
+code_snippet.py	../Network_Tools/GET_CN_ROUTE/unit_test/code_snippet.py	1;"	kind:file	line:1
+codecademy_test.py	../Training/codecademy_exercise/codecademy_test.py	1;"	kind:file	line:1
+coinFlip.py	../Training/automate_online-materials/coinFlip.py	1;"	kind:file	line:1
+coins_and_boxs	../Training/learn_python_the_hard_way/ex019.py	/^def coins_and_boxs(coin_count, box_count):$/;"	kind:function	line:3
+combinePdfs.py	../Training/automate_online-materials/combinePdfs.py	1;"	kind:file	line:1
+comicElem	../Training/automate_online-materials/downloadXkcd.py	/^    comicElem = soup.select('#comic img')$/;"	kind:variable	line:17
+comicUrl	../Training/automate_online-materials/downloadXkcd.py	/^        comicUrl = comicElem[0].get('src')$/;"	kind:variable	line:21
+computer	../Training/learn_python_the_hard_way/ex014.py	/^computer = raw_input(prompt)$/;"	kind:variable	line:20
+content	../Training/learn_python_the_hard_way/ex015.py	/^content = open(filename)$/;"	kind:variable	line:19
+correctAnswer	../Training/automate_online-materials/randomQuizGenerator.py	/^        correctAnswer = capitals[states[questionNum]]$/;"	kind:variable	line:30
+count	../CS1301_Course.py	/^count = 0$/;"	kind:variable	line:284
+count	../Training/automate_online-materials/characterCount.py	/^count = {}$/;"	kind:variable	line:2
+count	../Training/automate_online-materials/prettyCharacterCount.py	/^count = {}$/;"	kind:variable	line:3
+countDown	../CS1301_Course.py	/^def countDown(start):$/;"	kind:function	line:968
+countDown2	../CS1301_Course.py	/^def countDown2(start):$/;"	kind:function	line:976
+count_words	../Py_Checkio_Org.py	/^count_words = lambda t, w: sum([x in t.lower() for x in w])$/;"	kind:variable	line:175
+count_words	../Py_Checkio_Org.py	/^def count_words(inString, inWords):$/;"	kind:function	line:180
+count_words	../Py_Checkio_Org.py	/^def count_words(text, words):$/;"	kind:function	line:177
+countdown.py	../Training/automate_online-materials/countdown.py	1;"	kind:file	line:1
+counter	../CS1301_Course.py	/^counter = 3$/;"	kind:variable	line:248
+county	../Training/automate_online-materials/readCensusExcel.py	/^    county = sheet['C' + str(row)].value$/;"	kind:variable	line:15
+countyData	../Training/automate_online-materials/readCensusExcel.py	/^countyData = {}$/;"	kind:variable	line:9
+course_info	../CS1301_Course.py	/^def course_info(inTuple):$/;"	kind:function	line:1470
+csv	../Training/automate_online-materials/removeCsvHeader.py	/^import csv, os$/;"	kind:namespace	line:5
+csvFileObj	../Training/automate_online-materials/removeCsvHeader.py	/^    csvFileObj = open(csvFilename)$/;"	kind:variable	line:18
+csvFileObj	../Training/automate_online-materials/removeCsvHeader.py	/^    csvFileObj = open(os.path.join('headerRemoved', csvFilename), 'w', newline='')$/;"	kind:variable	line:27
+csvRows	../Training/automate_online-materials/removeCsvHeader.py	/^    csvRows = []$/;"	kind:variable	line:17
+csvWriter	../Training/automate_online-materials/removeCsvHeader.py	/^    csvWriter = csv.writer(csvFileObj)$/;"	kind:variable	line:28
+cthulhu_room	../Training/learn_python_the_hard_way/ex035.py	/^def cthulhu_room():$/;"	kind:function	line:44
+current_file	../Training/learn_python_the_hard_way/ex020.py	/^current_file = open(file_name)$/;"	kind:variable	line:18
+current_line	../Training/learn_python_the_hard_way/ex020.py	/^current_line = 1$/;"	kind:variable	line:25
+current_search_letter	../CS1301_Course.py	/^        current_search_letter = "a"$/;"	kind:variable	line:289
+current_search_letter	../CS1301_Course.py	/^        current_search_letter = "c"$/;"	kind:variable	line:294
+current_search_letter	../CS1301_Course.py	/^        current_search_letter = "c"$/;"	kind:variable	line:296
+current_search_letter	../CS1301_Course.py	/^        current_search_letter = "t"$/;"	kind:variable	line:291
+current_search_letter	../CS1301_Course.py	/^current_search_letter = "c"$/;"	kind:variable	line:285
+current_sum	../CS1301_Course.py	/^current_sum = 0$/;"	kind:variable	line:233
+current_word	../CS1301_Course.py	/^current_word = ""$/;"	kind:variable	line:272
+current_words	../CS1301_Course.py	/^current_words = ""$/;"	kind:variable	line:209
+date	../CS1301_Course.py	/^from datetime import date$/;"	kind:namespace	line:1220
+date	../CS1301_Course.py	/^from datetime import date$/;"	kind:namespace	line:1281
+date	../CS1301_Course.py	/^from datetime import date$/;"	kind:namespace	line:1322
+date	../CS1301_Course.py	/^from datetime import date$/;"	kind:namespace	line:300
+datelist	../CS1301_Course.py	/^datelist = [date(1885, 10, 13), date(2014, 11, 29), date(2016, 11, 26)]$/;"	kind:variable	line:1221
+datelist	../CS1301_Course.py	/^datelist = [date(1885, 10, 13), date(2014, 11, 29), date(2016, 11, 26)]$/;"	kind:variable	line:1282
+dayPart	../Training/automate_online-materials/renameDates.py	/^    dayPart    = mo.group(4)$/;"	kind:variable	line:26
+days	../Training/learn_python_the_hard_way/ex009.py	/^days = "Mon Tue Wed Thu Fri Sat Wun"$/;"	kind:variable	line:3
+dead	../Training/learn_python_the_hard_way/ex035.py	/^def dead(why):$/;"	kind:function	line:59
+delete	../Training/learn_python_the_hard_way/hashmap.py	/^def delete(aMap, key):$/;"	kind:function	line:51
+des	../Training/learn_python_the_hard_way/ex017.py	/^des = open(to_files, "w")$/;"	kind:variable	line:21
+display_inventory	../Training/automate_online-materials/inventory.py	/^def display_inventory(inventory):$/;"	kind:function	line:4
+display_numbers	../Training/learn_python_the_hard_way/ex033-1.py	/^def display_numbers(x):$/;"	kind:function	line:14
+divide	../Training/learn_python_the_hard_way/ex021.py	/^def divide(a, b):$/;"	kind:function	line:12
+do_not	../Training/learn_python_the_hard_way/ex006.py	/^do_not = "don't"$/;"	kind:variable	line:5
+docx	../Training/automate_online-materials/getDocxText.py	/^import docx$/;"	kind:namespace	line:3
+docx	../Training/automate_online-materials/readDocx.py	/^import docx$/;"	kind:namespace	line:3
+dogs	../Training/learn_python_the_hard_way/ex029.py	/^dogs = 15$/;"	kind:variable	line:5
+downloadThread	../Training/automate_online-materials/multidownloadXkcd.py	/^    downloadThread = threading.Thread(target=downloadXkcd, args=(i, i + 99))$/;"	kind:variable	line:36
+downloadThreads	../Training/automate_online-materials/multidownloadXkcd.py	/^downloadThreads = [] # a list of all the Thread objects$/;"	kind:variable	line:34
+downloadXkcd	../Training/automate_online-materials/multidownloadXkcd.py	/^def downloadXkcd(startComic, endComic):$/;"	kind:function	line:7
+downloadXkcd.py	../Training/automate_online-materials/downloadXkcd.py	1;"	kind:file	line:1
+download_data	../Other/download_voa.py	/^def download_data( url ):$/;"	kind:function	line:32
+download_voa.py	../Other/download_voa.py	1;"	kind:file	line:1
+drivers	../Training/learn_python_the_hard_way/ex004.py	/^drivers = 30$/;"	kind:variable	line:6
+e	../Training/learn_python_the_hard_way/ex006.py	/^e = "a string with a right side."$/;"	kind:variable	line:26
+eggs	../Training/automate_online-materials/passingReference.py	/^def eggs(someParameter):$/;"	kind:function	line:1
+eggs	../Training/automate_online-materials/sameName.py	/^eggs = 'global'$/;"	kind:variable	line:11
+eggs	../Training/automate_online-materials/sameName2.py	/^eggs = 'global'$/;"	kind:variable	line:5
+eggs	../Training/automate_online-materials/sameName3.py	/^eggs = 42 # this is the global$/;"	kind:variable	line:11
+eggs	../Training/automate_online-materials/sameName4.py	/^eggs = 'global'$/;"	kind:variable	line:5
+elements	../Training/learn_python_the_hard_way/ex032.py	/^elements = []$/;"	kind:variable	line:21
+email	../Training/automate_online-materials/sendDuesReminders.py	/^        email = sheet.cell(row=r, column=2).value$/;"	kind:variable	line:19
+email	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^    email = 'toonyom@qq.com'$/;"	kind:variable	line:52
+end1	../Training/learn_python_the_hard_way/ex007.py	/^end1 = "C"$/;"	kind:variable	line:10
+end10	../Training/learn_python_the_hard_way/ex007.py	/^end10 = "g"$/;"	kind:variable	line:19
+end11	../Training/learn_python_the_hard_way/ex007.py	/^end11 = "e"$/;"	kind:variable	line:20
+end12	../Training/learn_python_the_hard_way/ex007.py	/^end12 = "r"$/;"	kind:variable	line:21
+end2	../Training/learn_python_the_hard_way/ex007.py	/^end2 = "h"$/;"	kind:variable	line:11
+end3	../Training/learn_python_the_hard_way/ex007.py	/^end3 = "e"$/;"	kind:variable	line:12
+end4	../Training/learn_python_the_hard_way/ex007.py	/^end4 = "e"$/;"	kind:variable	line:13
+end5	../Training/learn_python_the_hard_way/ex007.py	/^end5 = "s"$/;"	kind:variable	line:14
+end6	../Training/learn_python_the_hard_way/ex007.py	/^end6 = "e"$/;"	kind:variable	line:15
+end7	../Training/learn_python_the_hard_way/ex007.py	/^end7 = "B"$/;"	kind:variable	line:16
+end8	../Training/learn_python_the_hard_way/ex007.py	/^end8 = "u"$/;"	kind:variable	line:17
+end9	../Training/learn_python_the_hard_way/ex007.py	/^end9 = "r"$/;"	kind:variable	line:18
+endTime	../Training/automate_online-materials/calcProd.py	/^endTime = time.time()$/;"	kind:variable	line:7
+errorExample.py	../Training/automate_online-materials/errorExample.py	1;"	kind:file	line:1
+euroFilename	../Training/automate_online-materials/renameDates.py	/^    euroFilename = beforePart + dayPart + '-' + monthPart + '-' + yearPart + afterPart$/;"	kind:variable	line:31
+euroFilename	../Training/automate_online-materials/renameDates.py	/^    euroFilename = os.path.join(absWorkingDir, euroFilename)$/;"	kind:variable	line:36
+ex001.py	../Training/learn_python_the_hard_way/ex001.py	1;"	kind:file	line:1
+ex002.py	../Training/learn_python_the_hard_way/ex002.py	1;"	kind:file	line:1
+ex003.py	../Training/learn_python_the_hard_way/ex003.py	1;"	kind:file	line:1
+ex004.py	../Training/learn_python_the_hard_way/ex004.py	1;"	kind:file	line:1
+ex005.py	../Training/learn_python_the_hard_way/ex005.py	1;"	kind:file	line:1
+ex006.py	../Training/learn_python_the_hard_way/ex006.py	1;"	kind:file	line:1
+ex007.py	../Training/learn_python_the_hard_way/ex007.py	1;"	kind:file	line:1
+ex008.py	../Training/learn_python_the_hard_way/ex008.py	1;"	kind:file	line:1
+ex009.py	../Training/learn_python_the_hard_way/ex009.py	1;"	kind:file	line:1
+ex010.py	../Training/learn_python_the_hard_way/ex010.py	1;"	kind:file	line:1
+ex011.py	../Training/learn_python_the_hard_way/ex011.py	1;"	kind:file	line:1
+ex012.py	../Training/learn_python_the_hard_way/ex012.py	1;"	kind:file	line:1
+ex013.py	../Training/learn_python_the_hard_way/ex013.py	1;"	kind:file	line:1
+ex014.py	../Training/learn_python_the_hard_way/ex014.py	1;"	kind:file	line:1
+ex015.py	../Training/learn_python_the_hard_way/ex015.py	1;"	kind:file	line:1
+ex016.py	../Training/learn_python_the_hard_way/ex016.py	1;"	kind:file	line:1
+ex016_drill.py	../Training/learn_python_the_hard_way/ex016_drill.py	1;"	kind:file	line:1
+ex017.py	../Training/learn_python_the_hard_way/ex017.py	1;"	kind:file	line:1
+ex018.py	../Training/learn_python_the_hard_way/ex018.py	1;"	kind:file	line:1
+ex019.py	../Training/learn_python_the_hard_way/ex019.py	1;"	kind:file	line:1
+ex020.py	../Training/learn_python_the_hard_way/ex020.py	1;"	kind:file	line:1
+ex021.py	../Training/learn_python_the_hard_way/ex021.py	1;"	kind:file	line:1
+ex024.py	../Training/learn_python_the_hard_way/ex024.py	1;"	kind:file	line:1
+ex025.py	../Training/learn_python_the_hard_way/ex025.py	1;"	kind:file	line:1
+ex026.py	../Training/learn_python_the_hard_way/ex026.py	1;"	kind:file	line:1
+ex028.py	../Training/learn_python_the_hard_way/ex028.py	1;"	kind:file	line:1
+ex029.py	../Training/learn_python_the_hard_way/ex029.py	1;"	kind:file	line:1
+ex030.py	../Training/learn_python_the_hard_way/ex030.py	1;"	kind:file	line:1
+ex031.py	../Training/learn_python_the_hard_way/ex031.py	1;"	kind:file	line:1
+ex032.py	../Training/learn_python_the_hard_way/ex032.py	1;"	kind:file	line:1
+ex033-1.py	../Training/learn_python_the_hard_way/ex033-1.py	1;"	kind:file	line:1
+ex033.py	../Training/learn_python_the_hard_way/ex033.py	1;"	kind:file	line:1
+ex034.py	../Training/learn_python_the_hard_way/ex034.py	1;"	kind:file	line:1
+ex035.py	../Training/learn_python_the_hard_way/ex035.py	1;"	kind:file	line:1
+ex038.py	../Training/learn_python_the_hard_way/ex038.py	1;"	kind:file	line:1
+ex039.py	../Training/learn_python_the_hard_way/ex039.py	1;"	kind:file	line:1
+ex039_text.py	../Training/learn_python_the_hard_way/ex039_text.py	1;"	kind:file	line:1
+ex040.py	../Training/learn_python_the_hard_way/ex040.py	1;"	kind:file	line:1
+execise_for.py	../Training/codecademy_exercise/execise_for.py	1;"	kind:file	line:1
+execise_input_check.py	../Training/codecademy_exercise/execise_input_check.py	1;"	kind:file	line:1
+exercise_print.py	../Training/codecademy_exercise/exercise_print.py	1;"	kind:file	line:1
+exercise_random.py	../Training/codecademy_exercise/exercise_random.py	1;"	kind:file	line:1
+exercise_variable.py	../Training/codecademy_exercise/exercise_variable.py	1;"	kind:file	line:1
+exercise_while.py	../Training/codecademy_exercise/exercise_while.py	1;"	kind:file	line:1
+exists	../Training/learn_python_the_hard_way/ex017.py	/^from os.path import exists$/;"	kind:namespace	line:4
+exit	../Training/learn_python_the_hard_way/ex035.py	/^from sys import exit$/;"	kind:namespace	line:3
+exitExample.py	../Training/automate_online-materials/exitExample.py	1;"	kind:file	line:1
+exponentCalc	../CS1301_Course.py	/^def exponentCalc(base, expo):$/;"	kind:function	line:996
+factorial	../CS1301_Course.py	/^def factorial(n):$/;"	kind:function	line:986
+factorial	../Training/automate_online-materials/factorialLog.py	/^def factorial(n):$/;"	kind:function	line:5
+factorialLog.py	../Training/automate_online-materials/factorialLog.py	1;"	kind:file	line:1
+factors	../CS1301_Course.py	/^def factors(n):$/;"	kind:function	line:24
+fib	../CS1301_Course.py	/^def fib(n):$/;"	kind:function	line:1306
+fib3	../CS1301_Course.py	/^def fib3(n):$/;"	kind:function	line:1314
+file	../Other/download_voa.py	/^            file = os.path.join(VOA_DIR, article_title + '.mp3')$/;"	kind:variable	line:137
+file	../Other/download_voa.py	/^            file = os.path.join(VOA_DIR, article_title + '.pdf')$/;"	kind:variable	line:130
+filename	../Training/learn_python_the_hard_way/ex015.py	/^filename = raw_input(promte)$/;"	kind:variable	line:18
+files_download.py	../Network_Tools/GET_CN_ROUTE/files_download.py	1;"	kind:file	line:1
+find	../CS1301_Course.py	/^find = "good"$/;"	kind:variable	line:483
+find_coffee	../CS1301_Course.py	/^def find_coffee(inFilename):$/;"	kind:function	line:734
+find_color	../CS1301_Course.py	/^def find_color(inString):$/;"	kind:function	line:505
+find_max_sales	../CS1301_Course.py	/^def find_max_sales(inList):$/;"	kind:function	line:660
+find_max_sales	../CS1301_Course.py	/^def find_max_sales(movie_list):$/;"	kind:function	line:674
+find_max_sales	../CS1301_Course.py	/^def find_max_sales(movie_list):$/;"	kind:function	line:696
+find_pressure	../CS1301_Course.py	/^def find_pressure(n, T, V, R=0.082057):$/;"	kind:function	line:337
+first	../Training/automate_online-materials/buggyAddingProgram.py	/^first = input()$/;"	kind:variable	line:2
+five	../Training/learn_python_the_hard_way/ex024.py	/^five = 10 - 2 + 3 - 6$/;"	kind:variable	line:20
+five	../Training/learn_python_the_hard_way/ex026.py	/^five = 10 - 2 + 3 - 5$/;"	kind:variable	line:57
+fiveTimes.py	../Training/automate_online-materials/fiveTimes.py	1;"	kind:file	line:1
+float_numbers	../Training/learn_python_the_hard_way/ex005.py	/^float_numbers = round(1.7777777)$/;"	kind:variable	line:38
+food	../Training/learn_python_the_hard_way/ex031.py	/^    food = raw_input("pls input number 1 or 2 to pick something: ")$/;"	kind:variable	line:13
+formData	../Training/automate_online-materials/formFiller.py	/^formData = [{'name': 'Alice', 'fear': 'eavesdroppers', 'source': 'wand', 'robocop': 4, 'comments': 'Tell Bob I said hi.'},$/;"	kind:variable	line:12
+formFiller.py	../Training/automate_online-materials/formFiller.py	1;"	kind:file	line:1
+formatter	../Training/learn_python_the_hard_way/ex008.py	/^formatter = "%r %r %r %r"$/;"	kind:variable	line:3
+fortune	../Training/automate_online-materials/magic8Ball.py	/^fortune = getAnswer(r)$/;"	kind:variable	line:24
+french2eng	../CS1301_Course.py	/^def french2eng(sentence):$/;"	kind:function	line:1454
+french_dict	../CS1301_Course.py	/^french_dict = {"me": "moi", "hello": "bonjour", $/;"	kind:variable	line:1464
+fruits	../Training/learn_python_the_hard_way/ex032.py	/^fruits = ['apples', 'oranges', 'pears', 'apricots']$/;"	kind:variable	line:4
+george_p	../CS1301_Course.py	/^george_p = Person("George P. Burdell", 25, father=george_p_father, mother=george_p_mother)$/;"	kind:variable	line:960
+george_p_father	../CS1301_Course.py	/^george_p_father = Person("Mr. Burdell", 53)$/;"	kind:variable	line:959
+george_p_mother	../CS1301_Course.py	/^george_p_mother = Person("Mrs. Burdell", 53)                        # TYPE: a new instances of this class$/;"	kind:variable	line:958
+get	../Training/learn_python_the_hard_way/hashmap.py	/^def get(aMap, key, default=None):$/;"	kind:function	line:34
+getAnswer	../Training/automate_online-materials/magic8Ball.py	/^def getAnswer(answerNumber):$/;"	kind:function	line:3
+getCompleted	../CS1301_Course.py	/^    def getCompleted(self):$/;"	kind:member	line:919
+getDescription	../CS1301_Course.py	/^    def getDescription(self):                               # TYPE: a Method$/;"	kind:member	line:916
+getDocxText	../Training/automate_online-materials/getDocxText.py	/^def getDocxText(filename):$/;"	kind:function	line:5
+getDocxText.py	../Training/automate_online-materials/getDocxText.py	1;"	kind:file	line:1
+getInstructionEmails	../Training/automate_online-materials/torrentStarter.py	/^def getInstructionEmails():$/;"	kind:function	line:20
+getText	../Training/automate_online-materials/readDocx.py	/^def getText(filename):$/;"	kind:function	line:5
+getTitle	../CS1301_Course.py	/^    def getTitle(self):                                     # TYPE: a Method$/;"	kind:member	line:913
+get_GTID	../CS1301_Course.py	/^    def get_GTID(self):$/;"	kind:member	line:1372
+get_age	../CS1301_Course.py	/^    def get_age(self):$/;"	kind:member	line:1369
+get_beans	../CS1301_Course.py	/^    def get_beans(self):$/;"	kind:member	line:1709
+get_bucket	../Training/learn_python_the_hard_way/hashmap.py	/^def get_bucket(aMap, key):$/;"	kind:function	line:15
+get_captcha	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^def get_captcha():$/;"	kind:function	line:19
+get_cheese	../CS1301_Course.py	/^    def get_cheese(self):$/;"	kind:member	line:1715
+get_cn_asn	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	/^def get_cn_asn():$/;"	kind:function	line:21
+get_corn	../CS1301_Course.py	/^    def get_corn(self):$/;"	kind:member	line:1719
+get_cost	../CS1301_Course.py	/^    def get_cost(self):$/;"	kind:member	line:1689
+get_extra_meat	../CS1301_Course.py	/^    def get_extra_meat(self):$/;"	kind:member	line:1711
+get_first_from_sorted	../Py_Checkio_Org.py	/^def get_first_from_sorted(args, key, reverse):$/;"	kind:function	line:62
+get_guacamole	../CS1301_Course.py	/^    def get_guacamole(self):$/;"	kind:member	line:1713
+get_login	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^def get_login(email, password):$/;"	kind:function	line:38
+get_meat	../CS1301_Course.py	/^    def get_meat(self):$/;"	kind:member	line:1703
+get_mtr	../Network_Tools/CHECK_VPS_STATUS/check_network_avail.py	/^def get_mtr(s):$/;"	kind:function	line:8
+get_name	../CS1301_Course.py	/^    def get_name(self):$/;"	kind:member	line:1366
+get_nc	../Network_Tools/CHECK_VPS_STATUS/check_network_avail.py	/^def get_nc(s):$/;"	kind:function	line:19
+get_network_loss	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^def get_network_loss(s):$/;"	kind:function	line:24
+get_pico	../CS1301_Course.py	/^    def get_pico(self):$/;"	kind:member	line:1717
+get_ping_lost	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^def get_ping_lost(s):$/;"	kind:function	line:13
+get_port_avail	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^def get_port_avail(s, p):$/;"	kind:function	line:19
+get_port_avail	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^def get_port_avail(s, p):$/;"	kind:function	line:33
+get_port_avail	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^def get_port_avail(s):$/;"	kind:function	line:32
+get_rice	../CS1301_Course.py	/^    def get_rice(self):$/;"	kind:member	line:1707
+get_setting	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^def get_setting(s):$/;"	kind:function	line:13
+get_setting	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^def get_setting(s):$/;"	kind:function	line:16
+get_slot	../Training/learn_python_the_hard_way/hashmap.py	/^def get_slot(aMap, key, default=None):$/;"	kind:function	line:20
+get_song_string	../CS1301_Course.py	/^def get_song_string(song):$/;"	kind:function	line:1399
+get_to_go	../CS1301_Course.py	/^    def get_to_go(self):$/;"	kind:member	line:1705
+get_todays_date	../CS1301_Course.py	/^def get_todays_date ():$/;"	kind:function	line:301
+get_value	../CS1301_Course.py	/^    def get_value(self):$/;"	kind:member	line:1640
+get_value	../CS1301_Course.py	/^    def get_value(self):$/;"	kind:member	line:1653
+get_value	../CS1301_Course.py	/^    def get_value(self):$/;"	kind:member	line:1666
+get_xsrf	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^def get_xsrf():$/;"	kind:function	line:31
+gold_room	../Training/learn_python_the_hard_way/ex035.py	/^def gold_room():$/;"	kind:function	line:5
+groupby	../Py_Checkio_Org.py	/^from itertools import groupby$/;"	kind:namespace	line:10
+guess	../Training/automate_online-materials/guessTheNumber.py	/^    guess = int(input())$/;"	kind:variable	line:9
+guessTheNumber.py	../Training/automate_online-materials/guessTheNumber.py	1;"	kind:file	line:1
+ham	../Training/automate_online-materials/sameName3.py	/^def ham():$/;"	kind:function	line:8
+happy_bday	../Training/learn_python_the_hard_way/ex040.py	/^happy_bday = Song(["Happy birthday to you",$/;"	kind:variable	line:12
+hash_key	../Training/learn_python_the_hard_way/hashmap.py	/^def hash_key(aMap, key):$/;"	kind:function	line:10
+hashmap	../Training/learn_python_the_hard_way/ex039_text.py	/^import hashmap$/;"	kind:namespace	line:3
+hashmap.py	../Training/learn_python_the_hard_way/hashmap.py	1;"	kind:file	line:1
+headers	../Web_Scraping/51.com/51space_thank_post.py	/^headers = {$/;"	kind:variable	line:18
+headers2	../Web_Scraping/51.com/51space_thank_post.py	/^headers2 = {$/;"	kind:variable	line:46
+heads	../Training/automate_online-materials/coinFlip.py	/^        heads = heads + 1$/;"	kind:variable	line:5
+heads	../Training/automate_online-materials/coinFlip.py	/^heads = 0$/;"	kind:variable	line:2
+height	../Training/automate_online-materials/resizeAndAddLogo.py	/^            height = SQUARE_FIT_SIZE$/;"	kind:variable	line:32
+height	../Training/automate_online-materials/resizeAndAddLogo.py	/^            height = int((SQUARE_FIT_SIZE \/ width) * height)$/;"	kind:variable	line:28
+height	../Training/learn_python_the_hard_way/ex012.py	/^height = raw_input("What's your height?")$/;"	kind:variable	line:5
+height	../Training/learn_python_the_hard_way/ex021.py	/^height = subtract(22, 11)$/;"	kind:variable	line:17
+hello	../Training/automate_online-materials/helloFunc.py	/^def hello():$/;"	kind:function	line:1
+hello	../Training/automate_online-materials/helloFunc2.py	/^def hello(name):$/;"	kind:function	line:1
+hello.py	../Training/automate_online-materials/hello.py	1;"	kind:file	line:1
+helloFunc.py	../Training/automate_online-materials/helloFunc.py	1;"	kind:file	line:1
+helloFunc2.py	../Training/automate_online-materials/helloFunc2.py	1;"	kind:file	line:1
+hilarious	../Training/learn_python_the_hard_way/ex006.py	/^hilarious = False$/;"	kind:variable	line:19
+host_list	../Network_Tools/CHECK_VPS_STATUS/check_network_avail.py	/^host_list = open("ixupt.com", "r")$/;"	kind:variable	line:6
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^		hostname = get_setting(x)$/;"	kind:variable	line:30
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^		hostname = get_setting(x)$/;"	kind:variable	line:35
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^                hostname = get_setting(x)$/;"	kind:variable	line:40
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^		hostname = get_setting(x)$/;"	kind:variable	line:44
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^		hostname = get_setting(x)$/;"	kind:variable	line:51
+hostname	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^                hostname = get_setting(x)$/;"	kind:variable	line:57
+hosts	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^hosts = open("hosts_list", "r")$/;"	kind:variable	line:11
+hour	../CS1301_Course.py	/^hour = 12$/;"	kind:variable	line:89
+html	../Other/download_voa.py	/^html = download_data(INDEX_PAGE)$/;"	kind:variable	line:81
+i	../CS1301_Course.py	/^i = len(myList) - 1$/;"	kind:variable	line:607
+i	../Training/learn_python_the_hard_way/ex033.py	/^i = 0$/;"	kind:variable	line:3
+im	../Training/automate_online-materials/resizeAndAddLogo.py	/^        im = im.resize((width, height))$/;"	kind:variable	line:36
+im	../Training/automate_online-materials/resizeAndAddLogo.py	/^    im = Image.open(filename)$/;"	kind:variable	line:21
+imageFile	../Training/automate_online-materials/downloadXkcd.py	/^        imageFile = open(os.path.join('xkcd', os.path.basename(comicUrl)), 'wb')$/;"	kind:variable	line:28
+image_recognition.py	../Web_Scraping/zhihu.com/image_recognition.py	1;"	kind:file	line:1
+imapclient	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+in_box_count	../Training/learn_python_the_hard_way/ex019.py	/^in_box_count = int(raw_input("Input Box Number:"))$/;"	kind:variable	line:19
+in_coin_count	../Training/learn_python_the_hard_way/ex019.py	/^in_coin_count = int(raw_input("Input Coin Number:"))$/;"	kind:variable	line:18
+in_parentheses	../CS1301_Course.py	/^def in_parentheses(inString):$/;"	kind:function	line:489
+inputFile	../CS1301_Course.py	/^inputFile = open("movies.txt", "r")$/;"	kind:variable	line:761
+input_type	../CS1301_Course.py	/^def input_type(inString):$/;"	kind:function	line:516
+insertionSort	../CS1301_Course.py	/^def insertionSort(alist):$/;"	kind:function	line:1066
+instructions	../Training/automate_online-materials/torrentStarter.py	/^        instructions = getInstructionEmails()$/;"	kind:variable	line:84
+integer_as_boolen	../CS1301_Course.py	/^integer_as_boolen = bool(my_integer)$/;"	kind:variable	line:7
+intlist	../CS1301_Course.py	/^intlist = [12, 64, 23, 3, 57, 19, 1, 17, 51, 62]$/;"	kind:variable	line:1207
+intlist	../CS1301_Course.py	/^intlist = [12, 64, 23, 3, 57, 19, 1, 17, 51, 62]$/;"	kind:variable	line:1268
+inventory.py	../Training/automate_online-materials/inventory.py	1;"	kind:file	line:1
+iq	../Training/learn_python_the_hard_way/ex021.py	/^iq = divide(100, 10)$/;"	kind:variable	line:19
+isPhoneNumber	../Training/automate_online-materials/isPhoneNumber.py	/^def isPhoneNumber(text):$/;"	kind:function	line:1
+isPhoneNumber.py	../Training/automate_online-materials/isPhoneNumber.py	1;"	kind:file	line:1
+joke_evaluation	../Training/learn_python_the_hard_way/ex006.py	/^joke_evaluation = "Isn't that joke so funny?! %r"$/;"	kind:variable	line:20
+json	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import json$/;"	kind:namespace	line:10
+json	../Training/automate_online-materials/quickWeather.py	/^import json, requests, sys$/;"	kind:namespace	line:4
+jupyter.py	../jupyter.py	1;"	kind:file	line:1
+keyword	../CS1301_Course.py	/^import keyword$/;"	kind:namespace	line:17
+lapNum	../Training/automate_online-materials/stopwatch.py	/^lapNum = 1$/;"	kind:variable	line:12
+lapTime	../Training/automate_online-materials/stopwatch.py	/^        lapTime = round(time.time() - lastTime, 2)$/;"	kind:variable	line:18
+lastCol	../Training/automate_online-materials/sendDuesReminders.py	/^lastCol = sheet.get_highest_column()$/;"	kind:variable	line:10
+lastTime	../Training/automate_online-materials/stopwatch.py	/^        lastTime = time.time() # reset the last lap time$/;"	kind:variable	line:22
+lastTime	../Training/automate_online-materials/stopwatch.py	/^lastTime = startTime$/;"	kind:variable	line:11
+latestMonth	../Training/automate_online-materials/sendDuesReminders.py	/^latestMonth = sheet.cell(row=1, column=lastCol).value$/;"	kind:variable	line:11
+length	../CS1301_Course.py	/^length = len(mystery_string)$/;"	kind:variable	line:273
+length_words	../CS1301_Course.py	/^def length_words(inString):$/;"	kind:function	line:849
+likes	../Training/learn_python_the_hard_way/ex014.py	/^likes = raw_input(prompt)$/;"	kind:variable	line:14
+line1	../Training/learn_python_the_hard_way/ex016.py	/^line1 = raw_input("Line1:")$/;"	kind:variable	line:21
+line2	../Training/learn_python_the_hard_way/ex016.py	/^line2 = raw_input("Line2:")$/;"	kind:variable	line:22
+line3	../Training/learn_python_the_hard_way/ex016.py	/^line3 = raw_input("Line3:")$/;"	kind:variable	line:23
+linear	../CS1301_Course.py	/^def linear(inList, inString):$/;"	kind:function	line:1140
+lines	../Training/automate_online-materials/bulletPointAdder.py	/^lines = text.split('\\n')$/;"	kind:variable	line:9
+linkElems	../Training/automate_online-materials/lucky.py	/^linkElems = soup.select('.r a')$/;"	kind:variable	line:14
+list	../Training/learn_python_the_hard_way/hashmap.py	/^def list(aMap):$/;"	kind:function	line:61
+listOfDates	../CS1301_Course.py	/^listOfDates = [date(2016, 11, 26), date(2014, 11, 29), $/;"	kind:variable	line:1339
+littleKid.py	../Training/automate_online-materials/littleKid.py	1;"	kind:file	line:1
+lives	../Training/learn_python_the_hard_way/ex014.py	/^lives = raw_input(prompt)$/;"	kind:variable	line:17
+loadList	../CS1301_Course.py	/^def loadList(myFilename):$/;"	kind:function	line:780
+location	../Training/automate_online-materials/quickWeather.py	/^location = ' '.join(sys.argv[1:])$/;"	kind:variable	line:10
+logChanges	../CS1301_Course.py	/^def logChanges(newValue):$/;"	kind:function	line:768
+logging	../Training/automate_online-materials/factorialLog.py	/^import logging$/;"	kind:namespace	line:1
+logging	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+logoIm	../Training/automate_online-materials/resizeAndAddLogo.py	/^logoIm = Image.open(LOGO_FILENAME)$/;"	kind:variable	line:11
+long_repeat	../Py_Checkio_Org.py	/^def long_repeat(line):$/;"	kind:function	line:11
+long_repeat	../Py_Checkio_Org.py	/^def long_repeat(line):$/;"	kind:function	line:32
+long_repeat	../Py_Checkio_Org.py	/^def long_repeat(text):$/;"	kind:function	line:17
+loser	../CS1301_Course.py	/^    loser = team_1$/;"	kind:variable	line:56
+loser	../CS1301_Course.py	/^    loser = team_2$/;"	kind:variable	line:48
+low_string	../PythonExercisesRoutine.py	/^    low_string = read_data.lower().replace($/;"	kind:variable	line:19
+lucky.py	../Training/automate_online-materials/lucky.py	1;"	kind:file	line:1
+lucky_sevens	../CS1301_Course.py	/^def lucky_sevens(a_list):$/;"	kind:function	line:632
+lucky_sevens	../CS1301_Course.py	/^def lucky_sevens(a_list):$/;"	kind:function	line:644
+lucky_sevens	../CS1301_Course.py	/^def lucky_sevens(inList):$/;"	kind:function	line:620
+magic8Ball.py	../Training/automate_online-materials/magic8Ball.py	1;"	kind:file	line:1
+magic8Ball2.py	../Training/automate_online-materials/magic8Ball2.py	1;"	kind:file	line:1
+mapIt.py	../Training/automate_online-materials/mapIt.py	1;"	kind:file	line:1
+margin	../CS1301_Course.py	/^    margin = team_1_score - team_2_score$/;"	kind:variable	line:49
+margin	../CS1301_Course.py	/^    margin = team_2_score - team_1_score$/;"	kind:variable	line:57
+matches	../Training/automate_online-materials/phoneAndEmail.py	/^matches = []$/;"	kind:variable	line:26
+math	../CS1301_Course.py	/^import math$/;"	kind:namespace	line:535
+matplotlib	../jupyter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+max	../Py_Checkio_Org.py	/^def max(*args, **kwargs):$/;"	kind:function	line:55
+max	../Py_Checkio_Org.py	/^def max(*args, key=None):$/;"	kind:function	line:68
+mergesort	../CS1301_Course.py	/^def mergesort(lst):$/;"	kind:function	line:1079
+message	../Training/automate_online-materials/characterCount.py	/^message = 'It was a bright cold day in April, and the clocks were striking thirteen.'$/;"	kind:variable	line:1
+message	../Training/automate_online-materials/prettyCharacterCount.py	/^message = 'It was a bright cold day in April, and the clocks were striking thirteen.'$/;"	kind:variable	line:2
+messages	../Training/automate_online-materials/magic8Ball2.py	/^messages = ['It is certain',$/;"	kind:variable	line:3
+min	../Py_Checkio_Org.py	/^def min(*args, **kwargs):$/;"	kind:function	line:50
+min	../Py_Checkio_Org.py	/^def min(*args, key=None):$/;"	kind:function	line:66
+minute	../CS1301_Course.py	/^minute = 45$/;"	kind:variable	line:90
+mo	../Training/automate_online-materials/renameDates.py	/^    mo = datePattern.search(amerFilename)$/;"	kind:variable	line:17
+modify_dict	../CS1301_Course.py	/^def modify_dict(name_dict):$/;"	kind:function	line:865
+modify_list	../CS1301_Course.py	/^def modify_list(inList):$/;"	kind:function	line:537
+monthPart	../Training/automate_online-materials/renameDates.py	/^    monthPart  = mo.group(2)$/;"	kind:variable	line:25
+months	../Training/learn_python_the_hard_way/ex009.py	/^months = "\\nJan\\nFeb\\nMar\\nApr\\nMay\\nJun\\nJul\\nAug"$/;"	kind:variable	line:4
+more_stuff	../Training/learn_python_the_hard_way/ex038.py	/^more_stuff = ["Day", "Night", "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]$/;"	kind:variable	line:8
+mouseNow.py	../Training/automate_online-materials/mouseNow.py	1;"	kind:file	line:1
+mouseNow2.py	../Training/automate_online-materials/mouseNow2.py	1;"	kind:file	line:1
+movieList	../CS1301_Course.py	/^movieList = [('Rogue One', 530, 2017), ('Finding Dory', 486, 2017), ('Captain America: Civil War', 408, 2017)]$/;"	kind:variable	line:746
+movieList	../CS1301_Course.py	/^movieList = []$/;"	kind:variable	line:760
+movie_list	../CS1301_Course.py	/^movie_list = [("Finding Dory", 486), ("Captain America: Civil War", 408), ("Deadpool", 363), ("Zootopia", 341), ("Rogue One", 529), ("The Secret Life of Pets", 368), ("Batman v Superman", 330), ("Sing", 268), ("Suicide Squad", 325), ("The Jungle Book", 364)]$/;"	kind:variable	line:670
+movies	../CS1301_Course.py	/^movies = {"How to Be Single": ["Alison Brie", "Dakota Johnson",$/;"	kind:variable	line:1576
+movies_to_performers	../CS1301_Course.py	/^def movies_to_performers(orig_dict, new_dict):$/;"	kind:function	line:1528
+mpl	../jupyter.py	/^import matplotlib as mpl$/;"	kind:namespace	line:3
+msg	../Training/learn_python_the_hard_way/ex016.py	/^msg = "%s \\n%s \\n%s \\n" % (line1, line2, line3)$/;"	kind:variable	line:34
+multidownloadXkcd.py	../Training/automate_online-materials/multidownloadXkcd.py	1;"	kind:file	line:1
+multiply	../Training/learn_python_the_hard_way/ex021.py	/^def multiply(a, b):$/;"	kind:function	line:9
+myAge	../Training/automate_online-materials/hello.py	/^myAge = input()$/;"	kind:variable	line:10
+myCount	../CS1301_Course.py	/^myCount = 0$/;"	kind:variable	line:156
+myInt	../CS1301_Course.py	/^myInt = input("Pls input interger: ")$/;"	kind:variable	line:13
+myList	../CS1301_Course.py	/^myList = [1, 2, 3, 4, 5]$/;"	kind:variable	line:606
+myName	../Training/automate_online-materials/hello.py	/^myName = input()$/;"	kind:variable	line:5
+myNumber	../Training/automate_online-materials/textMyself.py	/^myNumber = '+15559998888'$/;"	kind:variable	line:8
+myPets	../Training/automate_online-materials/myPets.py	/^myPets = ['Zophie', 'Pooka', 'Fat-tail']$/;"	kind:variable	line:1
+myPets.py	../Training/automate_online-materials/myPets.py	1;"	kind:file	line:1
+myResult	../PythonExercisesRoutine.py	/^    myResult = {}$/;"	kind:variable	line:22
+myResult1	../CS1301_Course.py	/^myResult1 = factors(mystery_int_1)$/;"	kind:variable	line:31
+myResult2	../CS1301_Course.py	/^myResult2 = factors(mystery_int_2)$/;"	kind:variable	line:32
+myRow	../CS1301_Course.py	/^myRow = []$/;"	kind:variable	line:179
+myString	../CS1301_Course.py	/^    myString = ""$/;"	kind:variable	line:186
+my_age	../Training/learn_python_the_hard_way/ex005.py	/^my_age = 35 # not a lie$/;"	kind:variable	line:4
+my_boolen	../CS1301_Course.py	/^my_boolen = True$/;"	kind:variable	line:4
+my_dict	../CS1301_Course.py	/^my_dict = {'Joshua':'Diaddigo', 'joyner':'David', 'Elliott':'jackie', 'murrell':'marguerite'}$/;"	kind:variable	line:892
+my_eyes	../Training/learn_python_the_hard_way/ex005.py	/^my_eyes = 'Blue'$/;"	kind:variable	line:9
+my_hair	../Training/learn_python_the_hard_way/ex005.py	/^my_hair = 'Brown'$/;"	kind:variable	line:11
+my_height	../Training/learn_python_the_hard_way/ex005.py	/^my_height = 74 # inches$/;"	kind:variable	line:5
+my_height_cm	../Training/learn_python_the_hard_way/ex005.py	/^my_height_cm = my_height * 5$/;"	kind:variable	line:7
+my_integer	../CS1301_Course.py	/^my_integer = "5.1"$/;"	kind:variable	line:6
+my_name	../Training/learn_python_the_hard_way/ex005.py	/^my_name = 'Zed A. Shaw'$/;"	kind:variable	line:3
+my_teeth	../Training/learn_python_the_hard_way/ex005.py	/^my_teeth = 'White'$/;"	kind:variable	line:10
+my_weight	../Training/learn_python_the_hard_way/ex005.py	/^my_weight = 180 # lbs$/;"	kind:variable	line:6
+my_weight_kg	../Training/learn_python_the_hard_way/ex005.py	/^my_weight_kg = my_weight * 2$/;"	kind:variable	line:8
+myloop	../Training/learn_python_the_hard_way/ex033-1.py	/^def myloop(nums, increment):$/;"	kind:function	line:5
+myresult_1	../CS1301_Course.py	/^    myresult_1 = mystery_value \/ mystery_value$/;"	kind:variable	line:326
+myresult_2	../CS1301_Course.py	/^        myresult_2 = mystery_value \/ ( mystery_value + 5)$/;"	kind:variable	line:330
+myresult_3	../CS1301_Course.py	/^        myresult_3 = mystery_value * 5$/;"	kind:variable	line:333
+mystery_int	../CS1301_Course.py	/^mystery_int = -5$/;"	kind:variable	line:219
+mystery_int	../CS1301_Course.py	/^mystery_int = 3$/;"	kind:variable	line:176
+mystery_int	../CS1301_Course.py	/^mystery_int = 46$/;"	kind:variable	line:245
+mystery_int_1	../CS1301_Course.py	/^mystery_int_1 = 15$/;"	kind:variable	line:21
+mystery_int_2	../CS1301_Course.py	/^mystery_int_2 = 5$/;"	kind:variable	line:22
+mystery_string	../CS1301_Course.py	/^mystery_string = "CS1301"$/;"	kind:variable	line:151
+mystery_string	../CS1301_Course.py	/^mystery_string = "Lucy"$/;"	kind:variable	line:207
+mystery_string	../CS1301_Course.py	/^mystery_string = "my cat your cat"$/;"	kind:variable	line:266
+mystery_value	../CS1301_Course.py	/^mystery_value = 0$/;"	kind:variable	line:321
+mystery_value	../CS1301_Course.py	/^mystery_value = 87$/;"	kind:variable	line:162
+name	../Training/automate_online-materials/allMyCats2.py	/^    name = input()$/;"	kind:variable	line:4
+name	../Training/automate_online-materials/birthdays.py	/^    name = input()$/;"	kind:variable	line:5
+name	../Training/automate_online-materials/myPets.py	/^name = input()$/;"	kind:variable	line:3
+name	../Training/automate_online-materials/sendDuesReminders.py	/^        name = sheet.cell(row=r, column=1).value$/;"	kind:variable	line:18
+name	../Training/automate_online-materials/swordfish.py	/^    name = input()$/;"	kind:variable	line:3
+name	../Training/learn_python_the_hard_way/ex011.py	/^name = raw_input()$/;"	kind:variable	line:4
+name	../Training/learn_python_the_hard_way/ex012.py	/^name = raw_input("What's your name?")$/;"	kind:variable	line:3
+nameField	../Training/automate_online-materials/formFiller.py	/^nameField = (648, 319)$/;"	kind:variable	line:7
+new	../Training/learn_python_the_hard_way/hashmap.py	/^def new(num_buckets=256):$/;"	kind:function	line:3
+newArtist	../CS1301_Course.py	/^newArtist = Artist("Taylor Swift", "Big Machine Records, LLC")$/;"	kind:variable	line:1402
+newBurrito	../CS1301_Course.py	/^newBurrito = Burrito("tofu", True, "white", "pinto")$/;"	kind:variable	line:1767
+newBurrito1	../CS1301_Course.py	/^newBurrito1 = Burrito("pork", True, "brown", "pinto")$/;"	kind:variable	line:1805
+newBurrito2	../CS1301_Course.py	/^newBurrito2 = Burrito("pork", True, "brown", "black")$/;"	kind:variable	line:1806
+newBurrito3	../CS1301_Course.py	/^newBurrito3 = Burrito("pork", True, "brown", "red")$/;"	kind:variable	line:1807
+newFib	../CS1301_Course.py	/^newFib = FibSeq()$/;"	kind:variable	line:1437
+newSong	../CS1301_Course.py	/^newSong = Song("You Belong With Me", "Fearless", 2008, newArtist)$/;"	kind:variable	line:1403
+new_box_count	../Training/learn_python_the_hard_way/ex019.py	/^new_box_count = 15$/;"	kind:variable	line:11
+new_coin_count	../Training/learn_python_the_hard_way/ex019.py	/^new_coin_count = 30$/;"	kind:variable	line:10
+next_number	../CS1301_Course.py	/^    def next_number(self):$/;"	kind:member	line:1432
+next_one	../Training/learn_python_the_hard_way/ex038.py	/^    next_one = more_stuff.pop()$/;"	kind:variable	line:11
+np	../jupyter.py	/^import numpy as np$/;"	kind:namespace	line:4
+num	../Training/codecademy_exercise/exercise_print.py	/^num = 18$/;"	kind:variable	line:21
+num	../Training/codecademy_exercise/exercise_random.py	/^num = randint(1,100)$/;"	kind:variable	line:5
+num	../Training/codecademy_exercise/exercise_while.py	/^num = 10$/;"	kind:variable	line:4
+numOpen	../Training/automate_online-materials/lucky.py	/^numOpen = min(5, len(linkElems))$/;"	kind:variable	line:15
+number	../Training/learn_python_the_hard_way/ex033.py	/^number = []$/;"	kind:variable	line:4
+number_instance	../CS1301_Course.py	/^number_instance = Number(101, False)$/;"	kind:variable	line:1449
+numbers	../Training/learn_python_the_hard_way/ex033-1.py	/^numbers = []$/;"	kind:variable	line:3
+ocr_api_service.py	../Web_Scraping/zhihu.com/ocr_api_service.py	1;"	kind:file	line:1
+ocr_space_file	../Web_Scraping/zhihu.com/ocr_api_service.py	/^def ocr_space_file(filename, overlay=False, api_key='bb8400852288957', language='eng'):$/;"	kind:function	line:8
+one_dimensional_booleans	../CS1301_Course.py	/^def one_dimensional_booleans(bool_list, use_and):$/;"	kind:function	line:561
+one_dimensional_booleans	../CS1301_Course.py	/^def one_dimensional_booleans(bool_list, use_and):$/;"	kind:function	line:574
+openpyxl	../Training/automate_online-materials/readCensusExcel.py	/^import openpyxl, pprint$/;"	kind:namespace	line:5
+openpyxl	../Training/automate_online-materials/sendDuesReminders.py	/^import openpyxl, smtplib, sys$/;"	kind:namespace	line:4
+openpyxl	../Training/automate_online-materials/updateProduce.py	/^import openpyxl$/;"	kind:namespace	line:4
+order_result	../PythonExercisesRoutine.py	/^    order_result = [(k, myResult[k])$/;"	kind:variable	line:25
+original	../Training/codecademy_exercise/execise_input_check.py	/^original = raw_input("Enter some word?")$/;"	kind:variable	line:3
+os	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^import os$/;"	kind:namespace	line:6
+os	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import os$/;"	kind:namespace	line:6
+os	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^import os$/;"	kind:namespace	line:6
+os	../Other/download_voa.py	/^import os$/;"	kind:namespace	line:6
+os	../Training/automate_online-materials/backupToZip.py	/^import zipfile, os$/;"	kind:namespace	line:6
+os	../Training/automate_online-materials/combinePdfs.py	/^import PyPDF2, os$/;"	kind:namespace	line:5
+os	../Training/automate_online-materials/downloadXkcd.py	/^import requests, os, bs4$/;"	kind:namespace	line:4
+os	../Training/automate_online-materials/multidownloadXkcd.py	/^import requests, os, bs4, threading$/;"	kind:namespace	line:4
+os	../Training/automate_online-materials/removeCsvHeader.py	/^import csv, os$/;"	kind:namespace	line:5
+os	../Training/automate_online-materials/renameDates.py	/^import shutil, os, re$/;"	kind:namespace	line:5
+os	../Training/automate_online-materials/resizeAndAddLogo.py	/^import os$/;"	kind:namespace	line:5
+outputFile	../CS1301_Course.py	/^outputFile = open("movies.txt", "w")$/;"	kind:variable	line:754
+pageObj	../Training/automate_online-materials/combinePdfs.py	/^        pageObj = pdfReader.getPage(pageNum)$/;"	kind:variable	line:23
+parseInstructionEmail	../Training/automate_online-materials/torrentStarter.py	/^def parseInstructionEmail(instruction):$/;"	kind:function	line:54
+passengers	../Training/learn_python_the_hard_way/ex004.py	/^passengers = 90$/;"	kind:variable	line:7
+passingReference.py	../Training/automate_online-materials/passingReference.py	1;"	kind:file	line:1
+password	../Training/automate_online-materials/swordfish.py	/^    password = input()$/;"	kind:variable	line:7
+password	../Training/automate_online-materials/validateInput.py	/^        password = input()$/;"	kind:variable	line:10
+password	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^    password = '123abc'$/;"	kind:variable	line:53
+payload	../Web_Scraping/51.com/51space_thank_post.py	/^payload = {$/;"	kind:variable	line:11
+payload2	../Web_Scraping/51.com/51space_thank_post.py	/^payload2 = {$/;"	kind:variable	line:41
+payment	../Training/automate_online-materials/sendDuesReminders.py	/^    payment = sheet.cell(row=r, column=lastCol).value$/;"	kind:variable	line:16
+pdfFileObj	../Training/automate_online-materials/combinePdfs.py	/^    pdfFileObj = open(filename, 'rb')$/;"	kind:variable	line:18
+pdfFiles	../Training/automate_online-materials/combinePdfs.py	/^pdfFiles = []$/;"	kind:variable	line:8
+pdfOutput	../Training/automate_online-materials/combinePdfs.py	/^pdfOutput = open('allminutes.pdf', 'wb')$/;"	kind:variable	line:27
+pdfReader	../Training/automate_online-materials/combinePdfs.py	/^    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)$/;"	kind:variable	line:19
+pdfWriter	../Training/automate_online-materials/combinePdfs.py	/^pdfWriter = PyPDF2.PdfFileWriter()$/;"	kind:variable	line:14
+people	../Training/learn_python_the_hard_way/ex029.py	/^people = 20$/;"	kind:variable	line:3
+people	../Training/learn_python_the_hard_way/ex030.py	/^people = 30$/;"	kind:variable	line:3
+persian_cat	../Training/learn_python_the_hard_way/ex010.py	/^persian_cat = "I'm split\\non a line."$/;"	kind:variable	line:4
+person1	../CS1301_Course.py	/^person1 = Person("David", 30, 901234567)$/;"	kind:variable	line:1381
+person2	../CS1301_Course.py	/^person2 = Person("D. Joyner", 29, 901234567)$/;"	kind:variable	line:1382
+person3	../CS1301_Course.py	/^person3 = Person("David", 30, 903987654)$/;"	kind:variable	line:1383
+phoneAndEmail.py	../Training/automate_online-materials/phoneAndEmail.py	1;"	kind:file	line:1
+phoneNum	../Training/automate_online-materials/phoneAndEmail.py	/^    phoneNum = '-'.join([groups[1], groups[3], groups[5]])$/;"	kind:variable	line:28
+picnicItems	../Training/automate_online-materials/picnicTable.py	/^picnicItems = {'sandwiches': 4, 'apples': 12, 'cups': 4, 'cookies': 8000}$/;"	kind:variable	line:6
+picnicTable.py	../Training/automate_online-materials/picnicTable.py	1;"	kind:file	line:1
+pixelColor	../Training/automate_online-materials/mouseNow2.py	/^        pixelColor = pyautogui.screenshot().getpixel((x, y))$/;"	kind:variable	line:10
+plt	../jupyter.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+pop	../Training/automate_online-materials/readCensusExcel.py	/^    pop    = sheet['D' + str(row)].value$/;"	kind:variable	line:16
+positionStr	../Training/automate_online-materials/mouseNow.py	/^        positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)$/;"	kind:variable	line:9
+positionStr	../Training/automate_online-materials/mouseNow2.py	/^        positionStr = 'X: ' + str(x).rjust(4) + ' Y: ' + str(y).rjust(4)$/;"	kind:variable	line:9
+pprint	../Training/automate_online-materials/prettyCharacterCount.py	/^import pprint$/;"	kind:namespace	line:1
+pprint	../Training/automate_online-materials/readCensusExcel.py	/^import openpyxl, pprint$/;"	kind:namespace	line:5
+prettyCharacterCount.py	../Training/automate_online-materials/prettyCharacterCount.py	1;"	kind:file	line:1
+prevLink	../Training/automate_online-materials/downloadXkcd.py	/^    prevLink = soup.select('a[rel="prev"]')[0]$/;"	kind:variable	line:34
+printBoard	../Training/automate_online-materials/ticTacToe.py	/^def printBoard(board):$/;"	kind:function	line:4
+printPicnic	../Training/automate_online-materials/picnicTable.py	/^def printPicnic(itemsDict, leftWidth, rightWidth):$/;"	kind:function	line:1
+printRandom.py	../Training/automate_online-materials/printRandom.py	1;"	kind:file	line:1
+print_a_line	../Training/learn_python_the_hard_way/ex020.py	/^def print_a_line(line_count, f):$/;"	kind:function	line:14
+print_all	../Training/learn_python_the_hard_way/ex020.py	/^def print_all(f):$/;"	kind:function	line:8
+print_first_and_last	../Training/learn_python_the_hard_way/ex025.py	/^def print_first_and_last(sentence):$/;"	kind:function	line:27
+print_first_and_last	../Training/learn_python_the_hard_way/ex026.py	/^def print_first_and_last(sentence):$/;"	kind:function	line:27
+print_first_and_last_sorted	../Training/learn_python_the_hard_way/ex025.py	/^def print_first_and_last_sorted(sentence):$/;"	kind:function	line:33
+print_first_and_last_sorted	../Training/learn_python_the_hard_way/ex026.py	/^def print_first_and_last_sorted(sentence):$/;"	kind:function	line:33
+print_first_word	../Training/learn_python_the_hard_way/ex025.py	/^def print_first_word(words):$/;"	kind:function	line:12
+print_first_word	../Training/learn_python_the_hard_way/ex026.py	/^def print_first_word(words):$/;"	kind:function	line:12
+print_last_word	../Training/learn_python_the_hard_way/ex025.py	/^def print_last_word(words):$/;"	kind:function	line:17
+print_last_word	../Training/learn_python_the_hard_way/ex026.py	/^def print_last_word(words):$/;"	kind:function	line:17
+print_none	../Training/learn_python_the_hard_way/ex018.py	/^def print_none():$/;"	kind:function	line:15
+print_one	../Training/learn_python_the_hard_way/ex018.py	/^def print_one(arg1):$/;"	kind:function	line:11
+print_third	../Training/learn_python_the_hard_way/ex018.py	/^def print_third(arg1, arg2,arg3):$/;"	kind:function	line:19
+print_two	../Training/learn_python_the_hard_way/ex018.py	/^def print_two(*args):$/;"	kind:function	line:2
+print_two_again	../Training/learn_python_the_hard_way/ex018.py	/^def print_two_again(arg1, arg2):$/;"	kind:function	line:7
+produceName	../Training/automate_online-materials/updateProduce.py	/^    produceName = sheet.cell(row=rowNum, column=1).value$/;"	kind:variable	line:16
+product	../CS1301_Course.py	/^        product = i * j$/;"	kind:variable	line:196
+product	../Training/automate_online-materials/calcProd.py	/^    product = product * i$/;"	kind:variable	line:6
+product	../Training/automate_online-materials/calcProd.py	/^product = 1$/;"	kind:variable	line:4
+prompt	../Training/learn_python_the_hard_way/ex014.py	/^prompt = sym$/;"	kind:variable	line:8
+promte	../Training/learn_python_the_hard_way/ex015.py	/^promte = ">>"$/;"	kind:variable	line:17
+providers	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^providers = ['ixupt', 'company', 'gfwpress']$/;"	kind:variable	line:11
+providers	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^providers = ['ixupt', 'company', 'gfwpress']$/;"	kind:variable	line:14
+pw.py	../Training/automate_online-materials/pw.py	1;"	kind:file	line:1
+pyautogui	../Training/automate_online-materials/formFiller.py	/^import pyautogui, time$/;"	kind:namespace	line:4
+pyautogui	../Training/automate_online-materials/mouseNow.py	/^import pyautogui$/;"	kind:namespace	line:3
+pyautogui	../Training/automate_online-materials/mouseNow2.py	/^import pyautogui$/;"	kind:namespace	line:3
+pyperclip	../Training/automate_online-materials/bulletPointAdder.py	/^import pyperclip$/;"	kind:namespace	line:5
+pyperclip	../Training/automate_online-materials/mapIt.py	/^import webbrowser, sys, pyperclip$/;"	kind:namespace	line:5
+pyperclip	../Training/automate_online-materials/phoneAndEmail.py	/^import pyperclip, re$/;"	kind:namespace	line:4
+pyperclip	../Training/automate_online-materials/pw.py	/^import sys, pyperclip$/;"	kind:namespace	line:8
+pytesseract	../Web_Scraping/zhihu.com/image_recognition.py	/^import pytesseract$/;"	kind:namespace	line:6
+pyzmail	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+quickWeather.py	../Training/automate_online-materials/quickWeather.py	1;"	kind:file	line:1
+quizFile	../Training/automate_online-materials/randomQuizGenerator.py	/^    quizFile = open('capitalsquiz%s.txt' % (quizNum + 1), 'w')$/;"	kind:variable	line:14
+r	../Training/automate_online-materials/magic8Ball.py	/^r = random.randint(1, 9)$/;"	kind:variable	line:23
+randint	../Training/codecademy_exercise/exercise_random.py	/^from random import randint$/;"	kind:namespace	line:3
+random	../Training/automate_online-materials/coinFlip.py	/^import random$/;"	kind:namespace	line:1
+random	../Training/automate_online-materials/guessTheNumber.py	/^import random$/;"	kind:namespace	line:2
+random	../Training/automate_online-materials/magic8Ball.py	/^import random$/;"	kind:namespace	line:1
+random	../Training/automate_online-materials/magic8Ball2.py	/^import random$/;"	kind:namespace	line:1
+random	../Training/automate_online-materials/printRandom.py	/^import random$/;"	kind:namespace	line:1
+random	../Training/automate_online-materials/randomQuizGenerator.py	/^import random$/;"	kind:namespace	line:5
+randomQuizGenerator.py	../Training/automate_online-materials/randomQuizGenerator.py	1;"	kind:file	line:1
+re	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^import re$/;"	kind:namespace	line:7
+re	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import re$/;"	kind:namespace	line:7
+re	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import re$/;"	kind:namespace	line:8
+re	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^import re$/;"	kind:namespace	line:7
+re	../Network_Tools/GET_CN_ROUTE/apnic_to_cnr.py	/^import re$/;"	kind:namespace	line:7
+re	../Other/download_voa.py	/^import re$/;"	kind:namespace	line:8
+re	../Py_Checkio_Org.py	/^import re$/;"	kind:namespace	line:219
+re	../Training/automate_online-materials/phoneAndEmail.py	/^import pyperclip, re$/;"	kind:namespace	line:4
+re	../Training/automate_online-materials/renameDates.py	/^import shutil, os, re$/;"	kind:namespace	line:5
+re	../unitTest.py	/^import re$/;"	kind:namespace	line:4
+re_article_audio	../Other/download_voa.py	/^re_article_audio = re.compile('(http:.*mp3)')$/;"	kind:variable	line:29
+re_article_title	../Other/download_voa.py	/^re_article_title = re.compile('<title>\\s+(.*)\\s+<\/title>')$/;"	kind:variable	line:26
+re_articles	../Other/download_voa.py	/^re_articles = re.compile('<h4.*?(\/content\/.*?\/\\d+\\.html).*?<\/h4>')$/;"	kind:variable	line:25
+re_audio_page	../Other/download_voa.py	/^re_audio_page = re.compile('\/audio\/Audio\/\\d+\\.html')$/;"	kind:variable	line:28
+readCensusExcel.py	../Training/automate_online-materials/readCensusExcel.py	1;"	kind:file	line:1
+readDocx.py	../Training/automate_online-materials/readDocx.py	1;"	kind:file	line:1
+read_data	../PythonExercisesRoutine.py	/^    read_data = f.read()$/;"	kind:variable	line:18
+reader	../CS1301_Course.py	/^def reader(filename):$/;"	kind:function	line:1487
+readerObj	../Training/automate_online-materials/removeCsvHeader.py	/^    readerObj = csv.reader(csvFileObj)$/;"	kind:variable	line:19
+removeCsvHeader.py	../Training/automate_online-materials/removeCsvHeader.py	1;"	kind:file	line:1
+renameDates.py	../Training/automate_online-materials/renameDates.py	1;"	kind:file	line:1
+replace	../CS1301_Course.py	/^replace = "bad"$/;"	kind:variable	line:484
+replace_all	../CS1301_Course.py	/^def replace_all(target_string, find_string, replace_string):$/;"	kind:function	line:478
+reporthook	../Other/download_voa.py	/^def reporthook(blocks_read,block_size,total_size):$/;"	kind:function	line:66
+requests	../Training/automate_online-materials/downloadXkcd.py	/^import requests, os, bs4$/;"	kind:namespace	line:4
+requests	../Training/automate_online-materials/lucky.py	/^import requests, sys, webbrowser, bs4$/;"	kind:namespace	line:4
+requests	../Training/automate_online-materials/multidownloadXkcd.py	/^import requests, os, bs4, threading$/;"	kind:namespace	line:4
+requests	../Training/automate_online-materials/quickWeather.py	/^import json, requests, sys$/;"	kind:namespace	line:4
+requests	../Web_Scraping/51.com/51space_thank_post.py	/^import requests$/;"	kind:namespace	line:6
+requests	../Web_Scraping/zhihu.com/ocr_api_service.py	/^import requests$/;"	kind:namespace	line:6
+requests	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^import requests$/;"	kind:namespace	line:7
+res	../Training/automate_online-materials/downloadXkcd.py	/^        res = requests.get(comicUrl)$/;"	kind:variable	line:24
+res	../Training/automate_online-materials/downloadXkcd.py	/^    res = requests.get(url)$/;"	kind:variable	line:11
+res	../Training/automate_online-materials/lucky.py	/^res = requests.get('http:\/\/google.com\/search?q=' + ' '.join(sys.argv[1:]))$/;"	kind:variable	line:7
+resizeAndAddLogo.py	../Training/automate_online-materials/resizeAndAddLogo.py	1;"	kind:file	line:1
+response	../Training/automate_online-materials/exitExample.py	/^    response = input()$/;"	kind:variable	line:4
+response	../Training/automate_online-materials/quickWeather.py	/^response = requests.get(url)$/;"	kind:variable	line:14
+result	../Training/codecademy_exercise/exercise_random.py	/^		result = True/;"	kind:variable	line:19
+result	../Training/codecademy_exercise/exercise_random.py	/^result = False;$/;"	kind:variable	line:8
+result	../Web_Scraping/51.com/51space_thank_post.py	/^result = s.post(url1, data=payload, headers=headers)$/;"	kind:variable	line:37
+result2	../Web_Scraping/51.com/51space_thank_post.py	/^result2 = s.post(url2, data=payload2, headers=headers2)$/;"	kind:variable	line:61
+resultFile	../Training/automate_online-materials/readCensusExcel.py	/^resultFile = open('census2010.py', 'w')$/;"	kind:variable	line:30
+rev	../CS1301_Course.py	/^rev = reverse("This string should be reversed!")$/;"	kind:variable	line:316
+reverse	../CS1301_Course.py	/^def reverse(a_string):$/;"	kind:function	line:311
+rewind	../Training/learn_python_the_hard_way/ex020.py	/^def rewind(f):$/;"	kind:function	line:11
+row_string	../CS1301_Course.py	/^    row_string = ""$/;"	kind:variable	line:194
+s	../Web_Scraping/51.com/51space_thank_post.py	/^s = requests.Session()$/;"	kind:variable	line:36
+safe_pawns	../Py_Checkio_Org.py	/^def safe_pawns(pawns):$/;"	kind:function	line:83
+safe_pawns	../Py_Checkio_Org.py	/^def safe_pawns(pawns):$/;"	kind:function	line:93
+sameName.py	../Training/automate_online-materials/sameName.py	1;"	kind:file	line:1
+sameName2.py	../Training/automate_online-materials/sameName2.py	1;"	kind:file	line:1
+sameName3.py	../Training/automate_online-materials/sameName3.py	1;"	kind:file	line:1
+sameName4.py	../Training/automate_online-materials/sameName4.py	1;"	kind:file	line:1
+same_person	../CS1301_Course.py	/^def same_person(person1, person2):$/;"	kind:function	line:1375
+saveList	../CS1301_Course.py	/^def saveList(myList, myFilename):$/;"	kind:function	line:775
+save_info	../CS1301_Course.py	/^def save_info(inList):$/;"	kind:function	line:747
+save_url_to_file	../Other/download_voa.py	/^def save_url_to_file(url, file_path):$/;"	kind:function	line:43
+second	../Training/automate_online-materials/buggyAddingProgram.py	/^second = input()$/;"	kind:variable	line:4
+secretNumber	../Training/automate_online-materials/guessTheNumber.py	/^secretNumber = random.randint(1, 20)$/;"	kind:variable	line:3
+secret_formula	../Training/learn_python_the_hard_way/ex024.py	/^def secret_formula(started):$/;"	kind:function	line:23
+secret_formula	../Training/learn_python_the_hard_way/ex026.py	/^def secret_formula(started):$/;"	kind:function	line:60
+selectionSort	../CS1301_Course.py	/^def selectionSort(aList):$/;"	kind:function	line:1034
+sendDuesReminders.py	../Training/automate_online-materials/sendDuesReminders.py	1;"	kind:file	line:1
+sendmailStatus	../Training/automate_online-materials/sendDuesReminders.py	/^    sendmailStatus = smtpObj.sendmail('my_email_address@gmail.com', email, body)$/;"	kind:variable	line:32
+sentence	../Training/learn_python_the_hard_way/ex026.py	/^sentence = "All god\\tthings come to those who weight."$/;"	kind:variable	line:79
+session	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^session = requests.Session()$/;"	kind:variable	line:17
+set	../Training/learn_python_the_hard_way/hashmap.py	/^def set(aMap, key, value):$/;"	kind:function	line:39
+setCompleted	../CS1301_Course.py	/^    def setCompleted(self, newCompleted):$/;"	kind:member	line:940
+setDescription	../CS1301_Course.py	/^    def setDescription(self, newDescription):$/;"	kind:member	line:931
+setTitle	../CS1301_Course.py	/^    def setTitle(self, newTitle):$/;"	kind:member	line:922
+set_GTID	../CS1301_Course.py	/^    def set_GTID(self, GTID):$/;"	kind:member	line:1363
+set_age	../CS1301_Course.py	/^    def set_age(self, age):$/;"	kind:member	line:1360
+set_beans	../CS1301_Course.py	/^    def set_beans(self, newBeans):$/;"	kind:member	line:1732
+set_cheese	../CS1301_Course.py	/^    def set_cheese(self, newCheese):$/;"	kind:member	line:1746
+set_corn	../CS1301_Course.py	/^    def set_corn(self, newCorn):$/;"	kind:member	line:1758
+set_extra_meat	../CS1301_Course.py	/^    def set_extra_meat(self, newExtra_meat):$/;"	kind:member	line:1734
+set_guacamole	../CS1301_Course.py	/^    def set_guacamole(self, newGuacamole):$/;"	kind:member	line:1740
+set_meat	../CS1301_Course.py	/^    def set_meat(self, newMeat):$/;"	kind:member	line:1722
+set_name	../CS1301_Course.py	/^    def set_name(self, name):$/;"	kind:member	line:1357
+set_pico	../CS1301_Course.py	/^    def set_pico(self, newPico):$/;"	kind:member	line:1752
+set_rice	../CS1301_Course.py	/^    def set_rice(self, newRice):$/;"	kind:member	line:1730
+set_to_go	../CS1301_Course.py	/^    def set_to_go(self, newTogo):$/;"	kind:member	line:1724
+set_value	../CS1301_Course.py	/^    def set_value(self, value):$/;"	kind:member	line:1643
+set_value	../CS1301_Course.py	/^    def set_value(self, value):$/;"	kind:member	line:1656
+set_value	../CS1301_Course.py	/^    def set_value(self, value):$/;"	kind:member	line:1669
+sheet	../Training/automate_online-materials/readCensusExcel.py	/^sheet = wb.get_sheet_by_name('Population by Census Tract')$/;"	kind:variable	line:8
+sheet	../Training/automate_online-materials/sendDuesReminders.py	/^sheet = wb.get_sheet_by_name('Sheet1')$/;"	kind:variable	line:8
+sheet	../Training/automate_online-materials/updateProduce.py	/^sheet = wb.get_sheet_by_name('Sheet')$/;"	kind:variable	line:7
+shlex	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import shlex$/;"	kind:namespace	line:9
+shutil	../Training/automate_online-materials/renameDates.py	/^import shutil, os, re$/;"	kind:namespace	line:5
+sing_me_a_song	../Training/learn_python_the_hard_way/ex040.py	/^    def sing_me_a_song(self):$/;"	kind:member	line:8
+skips	../Training/learn_python_the_hard_way/ex031.py	/^    skips = int(raw_input(">>>>>> "))$/;"	kind:variable	line:27
+smtpObj	../Training/automate_online-materials/sendDuesReminders.py	/^smtpObj = smtplib.SMTP('smtp.gmail.com', 587)$/;"	kind:variable	line:23
+smtplib	../Training/automate_online-materials/sendDuesReminders.py	/^import openpyxl, smtplib, sys$/;"	kind:namespace	line:4
+smtplib	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+socket	../Other/download_voa.py	/^import socket$/;"	kind:namespace	line:7
+socks	../Other/download_voa.py	/^import socks$/;"	kind:namespace	line:10
+song1	../CS1301_Course.py	/^song1 = Song("You Belong With Me", "Fearless", 2008, Artist("Taylor Swift", "Big Machine Records, LLC"))$/;"	kind:variable	line:1418
+song2	../CS1301_Course.py	/^song2 = Song("All Too Well", "Red", 2012, song1.artist)$/;"	kind:variable	line:1419
+song3	../CS1301_Course.py	/^song3 = Song("Up We Go", "Midnight Machines", 2016, Artist("LIGHTS", "Warner Bros. Records Inc."))$/;"	kind:variable	line:1420
+sort_artists	../CS1301_Course.py	/^def sort_artists(inList):$/;"	kind:function	line:590
+sort_films	../CS1301_Course.py	/^def sort_films(inFile, outFile):$/;"	kind:function	line:805
+sort_sentence	../Training/learn_python_the_hard_way/ex025.py	/^def sort_sentence(sentence):$/;"	kind:function	line:22
+sort_sentence	../Training/learn_python_the_hard_way/ex026.py	/^def sort_sentence(sentence):$/;"	kind:function	line:22
+sort_words	../Training/learn_python_the_hard_way/ex025.py	/^def sort_words(words):$/;"	kind:function	line:8
+sort_words	../Training/learn_python_the_hard_way/ex026.py	/^def sort_words(words):$/;"	kind:function	line:8
+sorted_words	../Training/learn_python_the_hard_way/ex026.py	/^sorted_words = sort_sentence(sentence)$/;"	kind:variable	line:88
+sorted_words	../Training/learn_python_the_hard_way/ex026.py	/^sorted_words = sort_words(words)$/;"	kind:variable	line:82
+soup	../Training/automate_online-materials/downloadXkcd.py	/^    soup = bs4.BeautifulSoup(res.text)$/;"	kind:variable	line:14
+soup	../Training/automate_online-materials/lucky.py	/^soup = bs4.BeautifulSoup(res.text)$/;"	kind:variable	line:11
+space_in_a_car	../Training/learn_python_the_hard_way/ex004.py	/^space_in_a_car = 4.0$/;"	kind:variable	line:4
+space_in_a_car_amount	../Training/learn_python_the_hard_way/ex004.py	/^space_in_a_car_amount = 4$/;"	kind:variable	line:5
+spam	../Training/automate_online-materials/errorExample.py	/^def spam():$/;"	kind:function	line:1
+spam	../Training/automate_online-materials/passingReference.py	/^spam = [1, 2, 3]$/;"	kind:variable	line:4
+spam	../Training/automate_online-materials/sameName.py	/^def spam():$/;"	kind:function	line:1
+spam	../Training/automate_online-materials/sameName2.py	/^def spam():$/;"	kind:function	line:1
+spam	../Training/automate_online-materials/sameName3.py	/^def spam():$/;"	kind:function	line:1
+spam	../Training/automate_online-materials/sameName4.py	/^def spam():$/;"	kind:function	line:1
+spam	../Training/automate_online-materials/zeroDivide.py	/^def spam(divideBy):$/;"	kind:function	line:1
+src	../Training/learn_python_the_hard_way/ex017.py	/^src = open(from_files)$/;"	kind:variable	line:10
+src_data	../Training/learn_python_the_hard_way/ex017.py	/^src_data = src.read()$/;"	kind:variable	line:12
+stars	../CS1301_Course.py	/^def stars(movies, tvshows):$/;"	kind:function	line:1535
+stars	../CS1301_Course.py	/^def stars(movies, tvshows):$/;"	kind:function	line:1552
+start	../Training/learn_python_the_hard_way/ex035.py	/^def start():$/;"	kind:function	line:63
+startTime	../Training/automate_online-materials/calcProd.py	/^startTime = time.time()$/;"	kind:variable	line:2
+startTime	../Training/automate_online-materials/stopwatch.py	/^startTime = time.time() # get the first lap's start time$/;"	kind:variable	line:10
+start_point	../Training/learn_python_the_hard_way/ex024.py	/^start_point = 10000$/;"	kind:variable	line:30
+start_point	../Training/learn_python_the_hard_way/ex024.py	/^start_point = start_point \/ 10$/;"	kind:variable	line:37
+start_point	../Training/learn_python_the_hard_way/ex026.py	/^start_point = 10000$/;"	kind:variable	line:67
+start_point	../Training/learn_python_the_hard_way/ex026.py	/^start_point = start_point \/ 10$/;"	kind:variable	line:73
+state	../Training/automate_online-materials/readCensusExcel.py	/^    state  = sheet['B' + str(row)].value$/;"	kind:variable	line:14
+state	../Training/learn_python_the_hard_way/ex039.py	/^state = states.get('Texas')$/;"	kind:variable	line:58
+state	../Training/learn_python_the_hard_way/ex039_text.py	/^state = hashmap.get(states, 'Texas')$/;"	kind:variable	line:48
+states	../Training/automate_online-materials/randomQuizGenerator.py	/^    states = list(capitals.keys()) # get all states in a list$/;"	kind:variable	line:23
+states	../Training/learn_python_the_hard_way/ex039.py	/^states = {$/;"	kind:variable	line:4
+states	../Training/learn_python_the_hard_way/ex039_text.py	/^states = hashmap.new()$/;"	kind:variable	line:6
+steps	../CS1301_Course.py	/^def steps(numbers):$/;"	kind:function	line:447
+stopwatch.py	../Training/automate_online-materials/stopwatch.py	1;"	kind:file	line:1
+strLength	../CS1301_Course.py	/^def strLength(myStr):$/;"	kind:function	line:1287
+strLength	../CS1301_Course.py	/^def strLength(myStr):$/;"	kind:function	line:1298
+string	../Py_Checkio_Org.py	/^import string$/;"	kind:namespace	line:247
+string	../Py_Checkio_Org.py	/^import string$/;"	kind:namespace	line:303
+string_finder	../CS1301_Course.py	/^def string_finder(target_string, search_string):$/;"	kind:function	line:455
+string_splitter	../CS1301_Course.py	/^def string_splitter(a_string):$/;"	kind:function	line:722
+string_splitter	../CS1301_Course.py	/^def string_splitter(inString):$/;"	kind:function	line:705
+strlist	../CS1301_Course.py	/^strlist = ["David", "Joshua", "Marguerite", "Jackie"]$/;"	kind:variable	line:1215
+strlist	../CS1301_Course.py	/^strlist = ["David", "Joshua", "Marguerite", "Jackie"]$/;"	kind:variable	line:1276
+student_list	../CS1301_Course.py	/^student_list = [('Maria', 18), ('Ashtyn', 25), ('Marco', 23), ('Jesse', 23), ('Marco', 25), ('Lucy', 21), ('David', 20), ('Taryn', 21), ('Haylee', 24), ('David', 18)]$/;"	kind:variable	line:1481
+stuff	../Training/automate_online-materials/inventory.py	/^stuff = {'rope': 1, 'torch': 6, 'gold coin': 42, 'dagger': 1, 'arrow': 12}$/;"	kind:variable	line:2
+stuff	../Training/learn_python_the_hard_way/ex038.py	/^stuff = ten_things.split(' ')$/;"	kind:variable	line:7
+submitAnotherLink	../Training/automate_online-materials/formFiller.py	/^submitAnotherLink = (760, 224)$/;"	kind:variable	line:10
+submitButton	../Training/automate_online-materials/formFiller.py	/^submitButton = (651, 817)$/;"	kind:variable	line:8
+submitButtonColor	../Training/automate_online-materials/formFiller.py	/^submitButtonColor = (75, 141, 249)$/;"	kind:variable	line:9
+subprocess	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini.py	/^import subprocess$/;"	kind:namespace	line:9
+subprocess	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_ini_v2.py	/^import subprocess$/;"	kind:namespace	line:12
+subprocess	../Network_Tools/CHECK_VPS_STATUS/analyse_network_date_txt.py	/^import subprocess$/;"	kind:namespace	line:8
+subprocess	../Network_Tools/CHECK_VPS_STATUS/check_network_avail.py	/^import subprocess$/;"	kind:namespace	line:3
+subprocess	../Training/automate_online-materials/countdown.py	/^import time, subprocess$/;"	kind:namespace	line:4
+subprocess	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+subtract	../Training/learn_python_the_hard_way/ex021.py	/^def subtract(a, b):$/;"	kind:function	line:6
+sum	../CS1301_Course.py	/^sum = 0$/;"	kind:variable	line:271
+swordfish.py	../Training/automate_online-materials/swordfish.py	1;"	kind:file	line:1
+sym	../Training/learn_python_the_hard_way/ex014.py	/^sym = 20 * ">"$/;"	kind:variable	line:7
+sys	../Network_Tools/GET_CN_ROUTE/files_download.py	/^import sys$/;"	kind:namespace	line:7
+sys	../Network_Tools/GET_CN_ROUTE/unit_test/code_snippet.py	/^import sys$/;"	kind:namespace	line:7
+sys	../Other/download_voa.py	/^import sys$/;"	kind:namespace	line:5
+sys	../Training/automate_online-materials/exitExample.py	/^import sys$/;"	kind:namespace	line:1
+sys	../Training/automate_online-materials/lucky.py	/^import requests, sys, webbrowser, bs4$/;"	kind:namespace	line:4
+sys	../Training/automate_online-materials/mapIt.py	/^import webbrowser, sys, pyperclip$/;"	kind:namespace	line:5
+sys	../Training/automate_online-materials/pw.py	/^import sys, pyperclip$/;"	kind:namespace	line:8
+sys	../Training/automate_online-materials/quickWeather.py	/^import json, requests, sys$/;"	kind:namespace	line:4
+sys	../Training/automate_online-materials/sendDuesReminders.py	/^import openpyxl, smtplib, sys$/;"	kind:namespace	line:4
+tabby_cat	../Training/learn_python_the_hard_way/ex010.py	/^tabby_cat = "\\tI'm tabbed in."$/;"	kind:variable	line:3
+takeANap	../Training/automate_online-materials/threadDemo.py	/^def takeANap():$/;"	kind:function	line:4
+tall	../Training/learn_python_the_hard_way/ex011.py	/^tall = raw_input()$/;"	kind:variable	line:8
+target	../CS1301_Course.py	/^target = "In case I don't see ya, good afternoon, good evening, and good night!"$/;"	kind:variable	line:482
+team_1	../CS1301_Course.py	/^team_1 = "Georgia Tech"$/;"	kind:variable	line:41
+team_1_score	../CS1301_Course.py	/^team_1_score = 29$/;"	kind:variable	line:42
+team_2	../CS1301_Course.py	/^team_2 = "Georgia"$/;"	kind:variable	line:43
+team_2_score	../CS1301_Course.py	/^team_2_score = 28$/;"	kind:variable	line:44
+ten_things	../Training/learn_python_the_hard_way/ex038.py	/^ten_things = "Apples Oranges Crows Telephone Light Sugar"$/;"	kind:variable	line:3
+test_R	../CS1301_Course.py	/^test_R = 62.364 #Torr!$/;"	kind:variable	line:347
+test_T	../CS1301_Course.py	/^test_T = 298$/;"	kind:variable	line:345
+test_V	../CS1301_Course.py	/^test_V = 5$/;"	kind:variable	line:346
+test_list	../CS1301_Course.py	/^test_list = ["123", "234", "345"]$/;"	kind:variable	line:787
+test_n	../CS1301_Course.py	/^test_n = 10$/;"	kind:variable	line:344
+tests	../Py_Checkio_Org.py	/^tests = [$/;"	kind:variable	line:327
+text	../Training/automate_online-materials/bulletPointAdder.py	/^text = '\\n'.join(lines)$/;"	kind:variable	line:12
+text	../Training/automate_online-materials/bulletPointAdder.py	/^text = pyperclip.paste()$/;"	kind:variable	line:6
+text	../Training/automate_online-materials/phoneAndEmail.py	/^text = str(pyperclip.paste())$/;"	kind:variable	line:24
+text	../Web_Scraping/zhihu.com/ocr_api_service.py	/^text = ocr_space_file(filename='\/Users\/ibsd\/Dropbox\/Project\/Python\/SCRAPE_REQUESTS\/tmp.jpg', language='eng')$/;"	kind:variable	line:36
+textMyself.py	../Training/automate_online-materials/textMyself.py	1;"	kind:file	line:1
+textmyself	../Training/automate_online-materials/textMyself.py	/^def textmyself(message):$/;"	kind:function	line:13
+theBoard	../Training/automate_online-materials/ticTacToe.py	/^theBoard = {'top-L': ' ', 'top-M': ' ', 'top-R': ' ',$/;"	kind:variable	line:1
+the_count	../Training/learn_python_the_hard_way/ex032.py	/^the_count = [1, 2, 3, 4, 5]$/;"	kind:variable	line:3
+theme_html	../Other/download_voa.py	/^    theme_html = download_data(theme_index)$/;"	kind:variable	line:96
+theme_index	../Other/download_voa.py	/^    theme_index = theme[0]$/;"	kind:variable	line:93
+theme_name	../Other/download_voa.py	/^    theme_name = theme[1]$/;"	kind:variable	line:92
+themes	../Other/download_voa.py	/^themes = re.findall(re_themes, html)$/;"	kind:variable	line:82
+third	../Training/automate_online-materials/buggyAddingProgram.py	/^third = input()$/;"	kind:variable	line:6
+threadDemo.py	../Training/automate_online-materials/threadDemo.py	1;"	kind:file	line:1
+threadObj	../Training/automate_online-materials/threadDemo.py	/^threadObj = threading.Thread(target=takeANap)$/;"	kind:variable	line:8
+threading	../Training/automate_online-materials/multidownloadXkcd.py	/^import requests, os, bs4, threading$/;"	kind:namespace	line:4
+threading	../Training/automate_online-materials/threadDemo.py	/^import threading, time$/;"	kind:namespace	line:1
+ticTacToe.py	../Training/automate_online-materials/ticTacToe.py	1;"	kind:file	line:1
+time	../Training/automate_online-materials/calcProd.py	/^import time$/;"	kind:namespace	line:1
+time	../Training/automate_online-materials/countdown.py	/^import time, subprocess$/;"	kind:namespace	line:4
+time	../Training/automate_online-materials/formFiller.py	/^import pyautogui, time$/;"	kind:namespace	line:4
+time	../Training/automate_online-materials/stopwatch.py	/^import time$/;"	kind:namespace	line:4
+time	../Training/automate_online-materials/threadDemo.py	/^import threading, time$/;"	kind:namespace	line:1
+time	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+time	../Web_Scraping/zhihu.com/zhihu_auto_login.py	/^import time$/;"	kind:namespace	line:6
+timeLeft	../Training/automate_online-materials/countdown.py	/^    timeLeft = timeLeft - 1$/;"	kind:variable	line:10
+timeLeft	../Training/automate_online-materials/countdown.py	/^timeLeft = 60$/;"	kind:variable	line:6
+torrentStarter.py	../Training/automate_online-materials/torrentStarter.py	1;"	kind:file	line:1
+total	../CS1301_Course.py	/^    total = 0$/;"	kind:variable	line:222
+total	../CS1301_Course.py	/^    total = 0$/;"	kind:variable	line:227
+total	../PythonExercisesRoutine.py	/^total = map($/;"	kind:variable	line:29
+totalTime	../Training/automate_online-materials/stopwatch.py	/^        totalTime = round(time.time() - startTime, 2)$/;"	kind:variable	line:19
+total_cost	../CS1301_Course.py	/^def total_cost(inList):$/;"	kind:function	line:1800
+traceback	../Training/automate_online-materials/torrentStarter.py	/^import smtplib, imapclient, pyzmail, logging, traceback, time, subprocess$/;"	kind:namespace	line:5
+tri	../CS1301_Course.py	/^def tri(n):$/;"	kind:function	line:1004
+trucks	../Training/learn_python_the_hard_way/ex030.py	/^trucks = 15$/;"	kind:variable	line:5
+turn	../Training/automate_online-materials/ticTacToe.py	/^turn = 'X'$/;"	kind:variable	line:11
+tvshows	../CS1301_Course.py	/^tvshows = {"Community": ["Alison Brie", "Joel McHale",$/;"	kind:variable	line:1580
+twilioNumber	../Training/automate_online-materials/textMyself.py	/^twilioNumber = '+15552225678'$/;"	kind:variable	line:9
+two_dimensional_booleans	../CS1301_Course.py	/^def two_dimensional_booleans(aLol, aBool):$/;"	kind:function	line:579
+txt	../Training/learn_python_the_hard_way/ex015.py	/^txt = open(filename)$/;"	kind:variable	line:8
+txt	../Training/learn_python_the_hard_way/ex016.py	/^txt = open(filename, "w")$/;"	kind:variable	line:14
+txt	../Training/learn_python_the_hard_way/ex016_drill.py	/^txt = open(filename)$/;"	kind:variable	line:8
+unitTest.py	../unitTest.py	1;"	kind:file	line:1
+unitTest1.py	../unitTest1.py	1;"	kind:file	line:1
+unitTest2.py	../unitTest2.py	1;"	kind:file	line:1
+unpaidMembers	../Training/automate_online-materials/sendDuesReminders.py	/^unpaidMembers = {}$/;"	kind:variable	line:13
+updateProduce.py	../Training/automate_online-materials/updateProduce.py	1;"	kind:file	line:1
+url	../Training/automate_online-materials/downloadXkcd.py	/^    url = 'http:\/\/xkcd.com' + prevLink.get('href')$/;"	kind:variable	line:35
+url	../Training/automate_online-materials/downloadXkcd.py	/^url = 'http:\/\/xkcd.com' # starting url$/;"	kind:variable	line:6
+urllib	../Other/download_voa.py	/^import urllib2, urllib$/;"	kind:namespace	line:4
+urllib2	../Other/download_voa.py	/^import urllib2, urllib$/;"	kind:namespace	line:4
+urlretrieve	../Network_Tools/GET_CN_ROUTE/files_download.py	/^    from urllib import urlretrieve$/;"	kind:namespace	line:12
+urlretrieve	../Network_Tools/GET_CN_ROUTE/files_download.py	/^    from urllib.request import urlretrieve$/;"	kind:namespace	line:10
+user_input_increment	../Training/learn_python_the_hard_way/ex033-1.py	/^user_input_increment = int(raw_input("input number that you want to increment>>>"))$/;"	kind:variable	line:20
+user_input_number	../Training/learn_python_the_hard_way/ex033-1.py	/^user_input_number = int(raw_input("input number 1 to 10>>> "))$/;"	kind:variable	line:19
+validPhoneNumber	../unitTest.py	/^def validPhoneNumber(filename):$/;"	kind:function	line:7
+validateInput.py	../Training/automate_online-materials/validateInput.py	1;"	kind:file	line:1
+vampire.py	../Training/automate_online-materials/vampire.py	1;"	kind:file	line:1
+vampire2.py	../Training/automate_online-materials/vampire2.py	1;"	kind:file	line:1
+w	../Training/automate_online-materials/quickWeather.py	/^w = weatherData['list']$/;"	kind:variable	line:21
+w	../Training/learn_python_the_hard_way/ex006.py	/^w = "This is the left side of..."$/;"	kind:variable	line:25
+wb	../Training/automate_online-materials/readCensusExcel.py	/^wb = openpyxl.load_workbook('censuspopdata.xlsx')$/;"	kind:variable	line:7
+wb	../Training/automate_online-materials/sendDuesReminders.py	/^wb = openpyxl.load_workbook('duesRecords.xlsx')$/;"	kind:variable	line:7
+wb	../Training/automate_online-materials/updateProduce.py	/^wb = openpyxl.load_workbook('produceSales.xlsx')$/;"	kind:variable	line:6
+weatherData	../Training/automate_online-materials/quickWeather.py	/^weatherData = json.loads(response.text)$/;"	kind:variable	line:18
+webbrowser	../Training/automate_online-materials/lucky.py	/^import requests, sys, webbrowser, bs4$/;"	kind:namespace	line:4
+webbrowser	../Training/automate_online-materials/mapIt.py	/^import webbrowser, sys, pyperclip$/;"	kind:namespace	line:5
+weight	../Training/learn_python_the_hard_way/ex021.py	/^weight = multiply(1, 2)$/;"	kind:variable	line:18
+what	../Training/learn_python_the_hard_way/ex021.py	/^what = add(age, subtract(height, multiply(weight, divide(iq, 2))))$/;"	kind:variable	line:26
+width	../Training/automate_online-materials/resizeAndAddLogo.py	/^            width = SQUARE_FIT_SIZE$/;"	kind:variable	line:29
+width	../Training/automate_online-materials/resizeAndAddLogo.py	/^            width = int((SQUARE_FIT_SIZE \/ height) * width)$/;"	kind:variable	line:31
+windows	../Training/learn_python_the_hard_way/ex031.py	/^windows = raw_input(">>>> ")$/;"	kind:variable	line:6
+winner	../CS1301_Course.py	/^    winner = team_1$/;"	kind:variable	line:47
+winner	../CS1301_Course.py	/^    winner = team_2$/;"	kind:variable	line:55
+word_count	../CS1301_Course.py	/^def word_count(my_string):$/;"	kind:function	line:353
+word_count	../CS1301_Course.py	/^def word_count(my_string):$/;"	kind:function	line:367
+word_count	../CS1301_Course.py	/^def word_count(my_string):$/;"	kind:function	line:383
+word_count	../CS1301_Course.py	/^def word_count(my_string):$/;"	kind:function	line:394
+word_lengths	../CS1301_Course.py	/^def word_lengths(inString):$/;"	kind:function	line:834
+words	../Training/learn_python_the_hard_way/ex026.py	/^words = break_words(sentence)$/;"	kind:variable	line:81
+wrongAnswers	../Training/automate_online-materials/randomQuizGenerator.py	/^        wrongAnswers = list(capitals.values()) # get a complete list of answers$/;"	kind:variable	line:31
+wrongAnswers	../Training/automate_online-materials/randomQuizGenerator.py	/^        wrongAnswers = random.sample(wrongAnswers, 3) # pick 3 random ones$/;"	kind:variable	line:33
+x	../Training/learn_python_the_hard_way/ex006.py	/^x = "There are %d types of people." % 10$/;"	kind:variable	line:3
+x	../jupyter.py	/^x = np.linspace(0, 20, 100)$/;"	kind:variable	line:6
+y	../Training/learn_python_the_hard_way/ex006.py	/^y = "Those who know %s and those who %s." % (binary, do_not)$/;"	kind:variable	line:6
+yearPart	../Training/automate_online-materials/renameDates.py	/^    yearPart   = mo.group(6)$/;"	kind:variable	line:27
+zeroDivide.py	../Training/automate_online-materials/zeroDivide.py	1;"	kind:file	line:1
+zhihu_auto_login.py	../Web_Scraping/zhihu.com/zhihu_auto_login.py	1;"	kind:file	line:1
+zipfile	../Training/automate_online-materials/backupToZip.py	/^import zipfile, os$/;"	kind:namespace	line:6
