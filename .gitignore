@@ -1,0 +1,14 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My Files
+*~
+*.un~
+.vagrant
+.vscode
+tags
