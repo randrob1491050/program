@@ -1,5 +1,5 @@
 Program
 =======
 ```
-shit up, showing up code
+shit up, show the code
 ```
