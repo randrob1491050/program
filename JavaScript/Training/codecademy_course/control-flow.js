@@ -1,4 +1,3 @@
-
 let moonPhase = "full";
 switch (moonPhase) {
   case "full":
@@ -14,3 +13,4 @@ switch (moonPhase) {
     console.log("Invalid moon phase");
     break;
 }
+

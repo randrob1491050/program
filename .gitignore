@@ -1,4 +1,4 @@
-# Python:
+# Python
 *.py[cod]
 *.so
 *.egg
@@ -11,4 +11,5 @@ build
 *.un~
 .vagrant
 .vscode
+.DS_Store
 tags
